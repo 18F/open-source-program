@@ -30,4 +30,5 @@ title: "Resources"
 * [List of Government SourceForge Accounts](http://18f.github.io/open-source-program/pages/list_of_sourceforge_accounts)
 * [Git Workflow](http://18f.github.io/open-source-program/pages/git_workflow)
 * [Tech@State Open Source Agenda - 2011](http://tech.state.gov/profiles/blogs/agenda-for-open-source-event) - *[[Slides](http://tech.state.gov/profiles/blogs/link-summary-for-open-source)]*
+* [Licensing OSS: It's Not as Hard as You Think - Department of Energy](https://www.ameslab.gov/files/Open%20Source%20Software%20presentation%20Feb.%202013.pdf)
 
