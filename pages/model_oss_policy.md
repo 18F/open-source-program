@@ -18,7 +18,7 @@ preference in accordance with 41 USC 264B (reference (b)) (see also FAR 2.101(b)
 
 b) Executive agencies, including {AGENCY}, are required to conduct market research when preparing for
  the procurement of products or services by 41 USC Sec. 253a (reference (e)) (see also FAR
- 10.001. Market research for software should include OSS.
+ 10.001. Market research for software must include relevant OSS.
 
  
 > a. There are several positive aspects of OSS that should compel {AGENCY} to seek out OSS when
