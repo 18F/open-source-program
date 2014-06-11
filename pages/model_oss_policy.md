@@ -92,7 +92,8 @@ f) In order to facilitate the auditing of {AGENCY}'s software catalog, the devel
 --
 
 a) Software source code written entirely by {AGENCY} staff, and by contractors who are developing
-   software on behalf of {AGENCY}, is by default a public domain work.
+   software on behalf of {AGENCY}, is by default released to the public without copyright restrictions
+   (aka "public domain").
 
 
 b) Software source code previously released under an open source license and then modified by
