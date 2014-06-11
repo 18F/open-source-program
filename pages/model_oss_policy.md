@@ -110,11 +110,11 @@ distribution or provide value to the broader community.
 
 > b. The Government does not have the rights to reproduce and release the item. The
 Government has public release rights when the software is developed by Government
-personnel, when the Government receives "unlimited rights" in software developed by a
-contractor at Government expense, or when pre-existing OSS is modified by or for the Government.
+personnel and when the Government receives "unlimited rights" in software developed by a
+contractor at Government expense.
 
-> c. The public release of the item is restricted by other law or regulation, such as the
-Export Administration Regulations or the International Traffic in Arms Regulation.
+> c. The public release of the item is restricted by other law or regulation, such as the laws governing
+classified information, the Export Administration Regulations, or the International Traffic in Arms Regulation.
         
 > d. {AGENCY} cybersecurity staff determine that the public release of such code would pose an
 unacceptable risk to {AGENCY}'s operational security.
