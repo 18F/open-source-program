@@ -61,8 +61,7 @@ should be chosen over another and your situation may vary.  Start with the
 
 Some government agencies consider the software and code they produce as 
 being in the public domain, and there are various descriptions of that; e.g.,
-[CC0](http://creativecommons.org/publicdomain/zero/1.0/).  NASA has it's own
-version, which is labelled as an [Open Source Software Agreement](http://ti.arc.nasa.gov/opensource/nosa/).
+[CC0](http://creativecommons.org/publicdomain/zero/1.0/).
 
 The point is to make
 make sure the government is indemnified and does not try to restrict use of the
