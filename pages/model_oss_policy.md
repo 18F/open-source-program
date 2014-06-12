@@ -92,7 +92,7 @@ f) In order to facilitate the auditing of {AGENCY}'s software catalog, the devel
 --
 
 a) Software source code written entirely by {AGENCY} staff, and by contractors who are developing
-   software on behalf of {AGENCY}, is by default released to the public without copyright restrictions
+   software on behalf of {AGENCY}, is by default released to the public worldwide without copyright restrictions
    (aka "public domain").
 
 
