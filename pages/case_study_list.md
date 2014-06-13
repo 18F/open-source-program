@@ -6,6 +6,7 @@ title: "Case Studies"
 * [A Case Study in Business Application Development Using Open Source and Semantic Web Technologies](http://www.mel.nist.gov/msidlibrary/doc/B5_Case.pdf)
 * [OpenStudio: An Open Source Integrated Analysis Platform](http://www.nrel.gov/docs/fy12osti/51836.pdf)
 * [How DOL Created Software Development Kits (SDKs) - Case Study](http://18f.github.io/API-All-the-X/pages/casestudy_dol)
+* [history.state.gov: A case study of Digital Humanities in Government](https://letterpress.uchicago.edu/index.php/jdhcs/article/view/80) [PDF](https://letterpress.uchicago.edu/index.php/jdhcs/article/download/80/102)
 
 ### Related Documents
 * [Building Custom GIS Applications using Open-Source Toolkits – A Case Study](http://web.ornl.gov/~ko5/OGV_Slides.pdf)
