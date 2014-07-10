@@ -42,6 +42,9 @@ navigation:
 - text: Community
   url: pages/community
   internal: true 
+- text: In The News
+  url: pages/news
+  internal: true 
 - text: Upcoming Events
   url: pages/events
   internal: true 
