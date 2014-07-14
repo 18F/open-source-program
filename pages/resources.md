@@ -37,6 +37,7 @@ title: "Resources"
 * [List of Government SourceForge Accounts](http://18f.github.io/open-source-program/pages/list_of_sourceforge_accounts)
 * [GitHub Showcase of Government Applications](https://github.com/showcases/government)
 * [Git Workflow](http://18f.github.io/open-source-program/pages/git_workflow)
+* [NASA Presentation on Open Source Strategy](http://www.slideshare.net/ckleclerc/nasaoss-mattmann)
 * [NASA Contributor License Agreement](http://geocamshare.org/docs/contributorLicenseAgreement.pdf)
 * [Tech@State Open Source Agenda - 2011](http://tech.state.gov/profiles/blogs/agenda-for-open-source-event) - *[[Slides](http://tech.state.gov/profiles/blogs/link-summary-for-open-source)]*
 * [2009 NSA Publication on Open Source Software](http://www.nsa.gov/research/tnw/tnw182/articles/pdfs/TNW_18_2_Web.pdf)
