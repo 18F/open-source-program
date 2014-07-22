@@ -8,6 +8,9 @@ title: "Case Studies"
 * [OpenStudio: An Open Source Integrated Analysis Platform](http://www.nrel.gov/docs/fy12osti/51836.pdf)
 * [How DOL Created Software Development Kits (SDKs) - Case Study](http://18f.github.io/API-All-the-X/pages/casestudy_dol)
 * [history.state.gov: A case study of Digital Humanities in Government](https://letterpress.uchicago.edu/index.php/jdhcs/article/view/80) [PDF](https://letterpress.uchicago.edu/index.php/jdhcs/article/download/80/102)
+* [Understanding Open Source Software at NASA](https://docs.google.com/viewer?a=v&pid=forums&srcid=MDI2Mzg4MDczMjExNTg0NDc0NjIBMDg4NzQ0MjExNzY4NTkxMjYwOTkBaFo4VFV3UWVkVU1KATAuMQEBdjI&authuser=2)
+* [A Software Architecture-Based Framework for Highly Distributed and Data Intensive Scientific Applications](https://docs.google.com/viewer?a=v&pid=forums&srcid=MDI2Mzg4MDczMjExNTg0NDc0NjIBMDg4NzQ0MjExNzY4NTkxMjYwOTkBaFo4VFV3UWVkVU1KATAuMgEBdjI&authuser=2)
+* [A Reusable Process Control System Framework for the Orbiting Carbon Observatory and NPP Sounder PEATE missions](https://docs.google.com/viewer?a=v&pid=forums&srcid=MDI2Mzg4MDczMjExNTg0NDc0NjIBMDg4NzQ0MjExNzY4NTkxMjYwOTkBaFo4VFV3UWVkVU1KATAuMwEBdjI&authuser=2)
 
 ### Related Documents
 * [Building Custom GIS Applications using Open-Source Toolkits – A Case Study](http://web.ornl.gov/~ko5/OGV_Slides.pdf)
