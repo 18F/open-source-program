@@ -49,5 +49,7 @@ title: "Community"
 * [Public Sector Cloud Computing Case Study forge.mil](https://cio.gov/public-sector-cloud-computing-case-study-forge-mil/)
 
 
+## Shortcuts
+* This Site - *[bitly.com/govopensource](https://bitly.com/govopensource)*
 
 
