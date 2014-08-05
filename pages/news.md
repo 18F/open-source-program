@@ -3,6 +3,9 @@ layout: page
 tite: "Government Open Source In The News"
 ---
 
+### August 5, 2014
+* [GSA pushes open source, cloud for all new IT projects](http://www.federaltimes.com/article/20140805/ACQ01/308050013/GSA-pushes-open-source-cloud-all-new-projects?odyssey=mod%7Cnewswell%7Ctext%7CFacilities,%20Fleet%20&%20Energy%7Cp)
+
 ### July 31, 2014
 * [18F commits to developing free and open source software by default for Uncle Sam - E Pluribus Unum](http://e-pluribusunum.com/2014/07/31/18f-commits-to-developing-free-and-open-source-software-by-default-for-uncle-sam/)
 
