@@ -19,6 +19,7 @@ title: "Policy Documents"
 * [EPA's GitHub Guidance](http://www2.epa.gov/webguide/github-guidance)
 * [FDIC Financial Institution Letters - Risk Management of Free and Open Source Software](http://www.fdic.gov/news/news/financial/2004/FIL11404a.html)
 * [GSA's 18F - Source Code Policy](https://github.com/18F/source-code-policy)
+* [GSA's IT Integration Policy (page 3)](http://gsa.gov/portal/mediaId/195155/fileName/CIO_IL-14-03_Information_Technology_(IT)_Integration_Policy_(Signed_on_July_24__2014)_(With_live_links).action)
 * [NASA Policy on Open Source](http://nodis3.gsfc.nasa.gov/displayDir.cfm?t=NPR&c=2210&s=1C)
 * [SEC License Agreement for Use of Interactive Financial Report Viewer Source Code](http://www.sec.gov/spotlight/xbrl/xbrlviewerlicense.htm)
 
