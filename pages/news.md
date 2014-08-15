@@ -3,9 +3,11 @@ layout: page
 tite: "Government Open Source In The News"
 ---
 
+### August 14, 2014
+* [GitHub May Actually Be Dragging Government Into The 21st Century - ReadWrite](http://readwrite.com/2014/08/14/github-government-ben-balter-open-source)
+
 ### August 6, 2014
 * [GSA’s open source first approach gives more software options, better savings - FedScoop](http://fedscoop.com/gsas-open-source-approach/)
-
 
 ### August 5, 2014
 * [GSA pushes open source, cloud for all new IT projects](http://www.federaltimes.com/article/20140805/ACQ01/308050013/GSA-pushes-open-source-cloud-all-new-projects?odyssey=mod%7Cnewswell%7Ctext%7CFacilities,%20Fleet%20&%20Energy%7Cp)
