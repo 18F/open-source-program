@@ -4,6 +4,12 @@ This is a set of templates and artifacts intended to help organizations bootstra
 
 Special thanks to @[CFPB](http://github.com/cfpb), @[Virtix](https://github.com/virtix), and @[BenBalter](https://github.com/benbalter) for their insight and code.
 
+#### 18F's open source policy
+
+Looking for 18F's open source policy? This is the policy 18F uses to govern its own work:
+
+> **[https://github.com/18F/open-source-policy/blob/master/policy.md](https://github.com/18F/open-source-policy/blob/master/policy.md)
+
 ### Public domain
 
 This project is in the worldwide [public domain](LICENSE.md). As stated in [CONTRIBUTING](CONTRIBUTING.md):
