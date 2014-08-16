@@ -3,6 +3,9 @@ layout: page
 tite: "Government Open Source In The News"
 ---
 
+### August 15, 2014
+* [New US Government Digital Team Picks Open Source Because It Is 'Easier To Use' - FutureGov Asia](http://www.futuregov.asia/articles/2014/aug/15/new-us-government-digital-team-picks-open-source-b/)
+
 ### August 14, 2014
 * [GitHub May Actually Be Dragging Government Into The 21st Century - ReadWrite](http://readwrite.com/2014/08/14/github-government-ben-balter-open-source)
 
