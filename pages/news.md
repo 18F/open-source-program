@@ -3,6 +3,9 @@ layout: page
 tite: "Government Open Source In The News"
 ---
 
+### August 25, 2014
+* [GitHub and Government - WLJA](http://www.wjla.com/articles/2014/08/github-and-government-106444.html)
+
 ### August 15, 2014
 * [New US Government Digital Team Picks Open Source Because It Is 'Easier To Use' - FutureGov Asia](http://www.futuregov.asia/articles/2014/aug/15/new-us-government-digital-team-picks-open-source-b/)
 
