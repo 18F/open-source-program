@@ -10,7 +10,7 @@ title: "Resources"
 
 ### Mashups
 * [All US Government GitHub Repos](http://www.govcode.org)
-* [Government Activity on GitHub](http://ada.mbecker.cc/USAxGITHUB/)
+* [Government Activity on GitHub](http://ajb.github.io/USAxGITHUB/)
 * [Open Source in the U.S Government](http://gov-oss.org/)
 
 ### Guides
