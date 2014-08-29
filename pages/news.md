@@ -6,6 +6,9 @@ tite: "Government Open Source In The News"
 ### August 25, 2014
 * [GitHub and Government - WLJA](http://www.wjla.com/articles/2014/08/github-and-government-106444.html)
 
+### August 18, 2014 
+* [18F publishes guidelines for open source contribution - Fedscoop](http://fedscoop.com/18f-publishes-guidelines-open-source-contribution/)
+
 ### August 15, 2014
 * [New US Government Digital Team Picks Open Source Because It Is 'Easier To Use' - FutureGov Asia](http://www.futuregov.asia/articles/2014/aug/15/new-us-government-digital-team-picks-open-source-b/)
 
