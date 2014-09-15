@@ -7,3 +7,5 @@ title: "GitHub Best Practices"
 * Keep the list of owners finite since that is the one permission level that can impact the organization in a substantial and permanent way.  
 * Otherwise though, err in the direction of giving most or all members of your organization admin access to their repositories.  
 * Ask that your organization's members add a headshot, ensure that they have their name populated, and make their membership in the organization public.  
+* Ensure that your organization has a profile picture uploaded.  
+* Include an email and URL in the organization's profile to better connect with your organization's efforts.  
