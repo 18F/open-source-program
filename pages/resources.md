@@ -14,6 +14,7 @@ title: "Resources"
 * [Open Source in the U.S Government](http://gov-oss.org/)
 
 ### Guides
+* [GitHub Best Practices for Government](http://18f.github.io/open-source-program/pages/github_best_practices)
 * [How to Build Community](http://18f.github.io/open-source-program/pages/building_a_community.html)
 * [How to Manage Accounts on GitHub.com](http://18f.github.io/open-source-program/pages/account_management.html)
 
