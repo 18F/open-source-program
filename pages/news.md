@@ -3,6 +3,9 @@ layout: page
 tite: "Government Open Source In The News"
 ---
 
+### October 27, 2014 
+* [Picking up the open-gov torch](http://fcw.com/articles/2014/10/27/picking-up-the-open-gov-torch.aspx)
+
 ### September 24, 2014
 * [USA to create official open source policy](http://e-pluribusunum.com/2014/09/24/usa-to-create-official-open-source-policy/)
 
