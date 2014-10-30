@@ -9,6 +9,9 @@ tite: "Government Open Source In The News"
 ### September 24, 2014
 * [USA to create official open source policy](http://e-pluribusunum.com/2014/09/24/usa-to-create-official-open-source-policy/)
 
+### August 28, 2014 
+* [How to start a government open source project](https://adrianshort.org/government-open-source/)
+
 ### August 25, 2014
 * [GitHub and Government - WLJA](http://www.wjla.com/articles/2014/08/github-and-government-106444.html)
 
