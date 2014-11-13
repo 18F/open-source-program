@@ -3,6 +3,9 @@ layout: page
 tite: "Government Open Source In The News"
 ---
 
+### November 12, 2014 
+* [The US Government's Tenuous Relationship With Open Source](http://www.technewsworld.com/story/The-US-Governments-Tenuous-Relationship-With-Open-Source-81348.html)
+
 ### October 27, 2014 
 * [Picking up the open-gov torch](http://fcw.com/articles/2014/10/27/picking-up-the-open-gov-torch.aspx)
 
