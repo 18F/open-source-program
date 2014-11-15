@@ -44,3 +44,13 @@ tite: "Government Open Source In The News"
 
 ### July 7, 2014
 * [GitHub: A Swiss Army knife for open government](http://fcw.com/articles/2014/07/07/github-swiss-army-knife.aspx)
+
+### September 1, 2011
+* [Government IT's quiet open source evolution](http://radar.oreilly.com/2011/09/open-source-government-it-goscon.html)
+
+### February 11, 2011
+* [Parsing open source at the State Department](http://radar.oreilly.com/2011/02/open-source-tech-at-state.html)
+
+### August 23, 2010
+* [Cost is only part of the Gov 2.0 open source story](http://radar.oreilly.com/2010/08/cost-savings-is-only-part-of-t.html)
+
