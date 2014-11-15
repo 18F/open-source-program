@@ -3,6 +3,9 @@ layout: page
 tite: "Government Open Source In The News"
 ---
 
+### November 14, 2014 
+* [As open source goes mainstream, institutions collaborate differently](http://www.techrepublic.com/article/as-open-source-goes-mainstream-institutions-collaborate-differently/)
+
 ### November 12, 2014 
 * [The US Government's Tenuous Relationship With Open Source](http://www.technewsworld.com/story/The-US-Governments-Tenuous-Relationship-With-Open-Source-81348.html)
 
