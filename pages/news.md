@@ -9,8 +9,14 @@ tite: "Government Open Source In The News"
 ### November 12, 2014 
 * [The US Government's Tenuous Relationship With Open Source](http://www.technewsworld.com/story/The-US-Governments-Tenuous-Relationship-With-Open-Source-81348.html)
 
+### November 10, 2014
+* [Let Congress use open source, say transparency groups](http://www.fiercegovernmentit.com/story/let-congress-use-open-source-say-transparency-groups/2014-11-10)
+
 ### October 27, 2014 
 * [Picking up the open-gov torch](http://fcw.com/articles/2014/10/27/picking-up-the-open-gov-torch.aspx)
+
+### October 23, 2014
+* [DHS report makes recommendations for greater open source software use in government](http://www.fiercegovernmentit.com/story/dhs-report-makes-recommendations-greater-open-source-software-use-governmen/2014-10-23)
 
 ### September 24, 2014
 * [USA to create official open source policy](http://e-pluribusunum.com/2014/09/24/usa-to-create-official-open-source-policy/)
@@ -44,6 +50,10 @@ tite: "Government Open Source In The News"
 
 ### July 7, 2014
 * [GitHub: A Swiss Army knife for open government](http://fcw.com/articles/2014/07/07/github-swiss-army-knife.aspx)
+
+### April 7, 2014 
+* [Guest opinion: Not just a code repository; GitHub's potential as a social tool for government](http://www.fiercegovernmentit.com/story/guest-opinion-not-just-code-repository-githubs-potential-social-tool-govern/2014-04-07)
+* [NGA releases open source code on GitHub](http://www.fiercegovernmentit.com/story/nga-releases-open-source-code-github/2014-04-07)
 
 ### September 1, 2011
 * [Government IT's quiet open source evolution](http://radar.oreilly.com/2011/09/open-source-government-it-goscon.html)
