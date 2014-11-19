@@ -2,15 +2,15 @@
 
 ## How to configure and edit this page and site
 
-This site is built with [Jekyll](http://jekyllrb.com/), so you should 
+This site is built with [Jekyll](http://jekyllrb.com/), so you should
 have that installed and be familiar with it.
 
 
 #### Quick Start
 
-1. Fork this repo/site by clicking the ["Fork me on GitHub"](https://github.com/virtix/open-source-program-template)
+1. Fork this repo/site by clicking the ["Fork me on GitHub"](https://github.com/18F/open-source-program)
 ribbon in the upper right-hand corner.
-2. Make sure the default branch is set to ```gh-pages```. This can be found in your [project's settings](https://github.com/YOUR_USERNAME/open-source-program-template/settings)
+2. Make sure the default branch is set to ```gh-pages```. This can be found in your [project's settings](https://github.com/YOUR_USERNAME/open-source-program/settings)
 3. Navigate to [http://YOUR_USERNAME.github.io](http://YOUR_USERNAME.github.io)
     You should see the un-edited micro-site.
 4. Navigate to [prose.io](http://prose.io) and log in with your GitHub account
@@ -20,7 +20,7 @@ ribbon in the upper right-hand corner.
 #### Editing this page
 
 Edit the ```index.md``` file in your project root to add welcome content and
-any other data you want. 
+any other data you want.
 
 **Note**: Make sure to change the ```title: ...```.
 
@@ -28,7 +28,7 @@ any other data you want.
 
 #### Removing the "Fork me on GitHub" ribbon
 
-Edit the ```_layouts\default.html``` file. The ribbon code is on 
+Edit the ```_layouts\default.html``` file. The ribbon code is on
 about line #23. Just replace it or delete it.
 
 
@@ -43,11 +43,11 @@ org_name:  YOUR ORGANIZATION NAME
 org_abbrev: Y.O.N.
 address:
  street: 1000 Main Street
- suite: 
+ suite:
  city: Washington
  state: D.C.
  zip: 20000
-point_of_contact: Thomas Jefferson 
+point_of_contact: Thomas Jefferson
 ...
 {% endhighlight %}
 
@@ -60,13 +60,13 @@ Navigate to the file ```_config.yml``` in your project's root directory. Change 
 {% highlight yaml %}
 # Your Programs's Name
 name: A Government Open Source Program
-subtitle: A set of templates and artifacts to support open source programs 
+subtitle: A set of templates and artifacts to support open source programs
 {% endhighlight %}
 
 
 #### Changing the site's logo
 
-Navigate to the file ```data/meta.yml``` and change the ```logo_url``` to a valid 
+Navigate to the file ```data/meta.yml``` and change the ```logo_url``` to a valid
 location to your logo. This can either be an HTTP URL or a new local image file.
 
 {% highlight yaml %}
@@ -86,10 +86,10 @@ If your site is hosted at GitHub using [GitHub Pages](http://pages.github.com/) 
 directly or you can use [Prose.io](http://prose.io/).
 
 
-#### Creating News Items 
+#### Creating News Items
 
 To create a _new_ post, copy the ```_posts/post-template.md``` file to the same directory and use this
-file naming convention: ```YYYY-MM-DD-Your-Post-Title.md```.  Edit that file accordingly and it 
+file naming convention: ```YYYY-MM-DD-Your-Post-Title.md```.  Edit that file accordingly and it
 will automatically be displayed on the the [news page](news.html).  
 
 
@@ -101,10 +101,10 @@ Copy the ```pages/page_template.md``` file to ```pages/your_file_name.md``` and 
 
 #### Adding/Changing Left-hand Navigation
 
-In your project's root directory, open ```_config.yml```.  Towards the bottom there is a 
+In your project's root directory, open ```_config.yml```.  Towards the bottom there is a
 ```navigation:``` node. Each child in the node represents a new navigation item.  Each item
-has text,url, and internal properties.  The ```text``` property is the text that is displayed 
-on the page. The ```url``` property is the target destination. 
+has text,url, and internal properties.  The ```text``` property is the text that is displayed
+on the page. The ```url``` property is the target destination.
 
 #### Working with GitHub pages
 
@@ -116,22 +116,22 @@ Using Jekyll and GitHub pages allows you to easily manage and publish content. S
 
 Prose.io is an open source tool for managing content on GitHub.
 Use it to create, edit, or delete files in your project.  Prose.io is _Jekyll-aware_
-so, it adds a few features if you are using Jekyll. These included the ability to 
+so, it adds a few features if you are using Jekyll. These included the ability to
 save _drafts_, and _publish_ or _unpublish_ posts.
 
 If you publish this using GitHub Pages, you can easily allow contributions.  Notice the
 the {% include prose_edit_url.html %} link in the left hand navigation.  You can customize this
-by editing the ```_config.yml``` file. Update the ```# Prose.io editing``` section with 
+by editing the ```_config.yml``` file. Update the ```# Prose.io editing``` section with
 your GitHub information:
 
 {%highlight yaml%}
 #Prose.io editing info
-repo_name: open-source-program-template
+repo_name: open-source-program
 branch: gh-pages
 #GitHub organization name *or* username
-gh_org: virtix
+gh_org: 18F
 prose_url: http://prose.io
-site_url: http://if.io/open-source-program-template
+site_url: https://18f.github.io/open-source-program/
 media: assets/img
 {% endhighlight %}
 
@@ -141,4 +141,3 @@ To remove the edit on prose.io link, remove the following lines from the
 {% highlight html %}{% raw %}<!-- Prose.io edit link -->
  <li>{% include prose_edit_url.html %}</li>{% endraw %}
 {% endhighlight %}
-
