@@ -7,6 +7,12 @@ bundle
 bundle exec jekyll serve -w
 ```
 
+## Test Links
+
+```bash
+bundle exec rake test
+```
+
 ## Making Changes
 
 Thanks for contributing! There are two ways:
