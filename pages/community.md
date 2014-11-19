@@ -17,7 +17,7 @@ title: "Community"
 * [Federal Communications Commission](http://www.fcc.gov/developers#opensource)
 * [HHS/CMS Measure Authoring Tool](https://www.emeasuretool.cms.gov/web/guest/open-source-community)
 * [Lawrence Livermore Computing Center](https://computing.llnl.gov/?set=resources&page=os_projects)
-* [NASA](http://ti.arc.nasa.gov/opensource/) [Alternative](http://code.nasa.gov/project/)
+* [NASA](http://ti.arc.nasa.gov/opensource/) [Alternative](http://code.nasa.gov/)
 * [White House](http://www.whitehouse.gov/developers#drupalgive)
 
 
@@ -40,16 +40,14 @@ title: "Community"
 * [Open Source Software and Digital Preservation: An Interview with Bram van der Werf of the Open Planets Foundation](http://blogs.loc.gov/digitalpreservation/2012/04/open-source-software-and-digital-preservation-an-interview-with-bram-van-der-werf-of-the-open-planets-foundation/?loclr=blogsig)
 * [BitCurator’s Open Source Approach: An Interview With Cal Lee](http://blogs.loc.gov/digitalpreservation/2013/12/bitcurators-open-source-approach-an-interview-with-cal-lee/)
 
-### Broadcasting Board of Governors 
+### Broadcasting Board of Governors
 * [BBG Debuts New Open Source Digital Storytelling Tool](http://www.bbg.gov/blog/2013/10/25/bbg-debuts-new-open-source-digital-storytelling-tool/)
 
 ### CIO.gov
 * [IT Reform: OMB Open Sources IT Dashboard and TechStat Toolkit](https://cio.gov/it-reform-omb-open-sources-it-dashboard-and-techstat-toolkit/)
-* [https://cio.gov/nist-releases-appvet-open-source-mobile-app-vetting-system/](NIST Releases AppVet, an Open Source Mobile App Vetting System)
+* [NIST Releases AppVet, an Open Source Mobile App Vetting System](https://cio.gov/nist-releases-appvet-open-source-mobile-app-vetting-system/)
 * [Public Sector Cloud Computing Case Study forge.mil](https://cio.gov/public-sector-cloud-computing-case-study-forge-mil/)
 
 
 ## Shortcuts
 * This Site - *[bitly.com/govopensource](https://bitly.com/govopensource)*
-
-

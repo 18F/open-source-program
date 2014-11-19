@@ -10,10 +10,10 @@ useful free resources for learning Git.</p>
 If you've never used Git before, you should know two things:
 
 - It has a learning curve.
-- Once you get it, your work will be much better, and you'll insist on using it for every coding project you work 
+- Once you get it, your work will be much better, and you'll insist on using it for every coding project you work
 on.
 
-Git is a revision control system. It lets multiple people work on a code project without stepping on each other's 
+Git is a revision control system. It lets multiple people work on a code project without stepping on each other's
 toes. It also saves every previous version of your files, so if something breaks, reverting is easy.
 
 The basic workflow for Git goes something like this:
@@ -21,11 +21,11 @@ The basic workflow for Git goes something like this:
 - You tell Git that you're going to work on a certain project, or "repository".
 - You make your own copy of that project.
 - You make whatever changes to the code you like and test them in your repository.
-- When you're ready to have those changes reflected in the live code (```master```), you update your copy so 
+- When you're ready to have those changes reflected in the live code (```master```), you update your copy so
 that it reflects any changes made by others in the time since you initially made the copy.
 - You commit your changes to master.
 
-Here's that workflow as written in Git. If you're ever in doubt about whether you're doing things in the right 
+Here's that workflow as written in Git. If you're ever in doubt about whether you're doing things in the right
 order, this simple workflow will keep you straight:
 
 {% highlight console %}
@@ -35,7 +35,7 @@ $ git checkout -b feature-A
 {% endhighlight %}
 
 This last line creates a new branch (called ```feature-A```) in your copy. A branch is a way of saying, "I'm going
-to work on this bug," or "I'm going to code a new feature." You should ALWAYS create a new branch, no matter how 
+to work on this bug," or "I'm going to code a new feature." You should ALWAYS create a new branch, no matter how
 mundane your changes are going to be.
 
 Once you are done with your changes and are ready to commit them back to ```master```:
@@ -50,53 +50,53 @@ $ git push
 
 In order, these lines:
 
-The first line commits your changes to your branch. The next two lines ensure your ```master``` copy is up to date 
-with the TRUE ```master```, or "```origin master```". The next line moves your ```feature-A``` branch changes into 
+The first line commits your changes to your branch. The next two lines ensure your ```master``` copy is up to date
+with the TRUE ```master```, or "```origin master```". The next line moves your ```feature-A``` branch changes into
 your ```master``` branch, and the final line moves those changes onto ```origin master```.
 
-It may differ slightly from project to project and may require some experimentation and refactoring. That said, 
+It may differ slightly from project to project and may require some experimentation and refactoring. That said,
 here are some guidelines to follow:
 
 
 ## People: Developers & Maintainers
 
-Simply, a _Developer_ is a person or roles who writes software. A _Maintainer_ controls what is allowed to be in 
+Simply, a _Developer_ is a person or roles who writes software. A _Maintainer_ controls what is allowed to be in
 the central reposisitory. A person may be _both_ a Developer and a Maintainer, but preferably not on the same code.
 
 **Developers** write code in their repo and do not have commit access to the {{site.data.meta.org_name}} master branches.
 
-**Maintainers** own and are accountable for the {{site.data.meta.org_name}} master branches. They ensure that any code there adheres to 
+**Maintainers** own and are accountable for the {{site.data.meta.org_name}} master branches. They ensure that any code there adheres to
 all defined criteria. Additionally, they determine the version (tag) of each repository.
- 
+
 
 ----
 
 ## Branching and Merging
 
-### Terms: 
+### Terms:
 
-- **Fork** &ndash; A clone of a GitHub repository that was created using the 
-<img src="http://i.imgur.com/SMr70.png" alt="Fork" align="absmiddle" /> feature. A fork allows you and the 
-maintainer to use GitHub pull requests and lists the developer in the maintainer's network. This is very useful in 
-larger projects with many committers. 
-- **Integration branch** &ndash; a branch that is only used to merge work in from other branches. ```master```, 
-for example, should be an integration branch. In most cases, it's a bad idea to code directly on {{site.data.meta.org_name}}'s master 
-branches. 
+- **Fork** &ndash; A clone of a GitHub repository that was created using the
+<img src="http://i.imgur.com/SMr70.png" alt="Fork" align="absmiddle" /> feature. A fork allows you and the
+maintainer to use GitHub pull requests and lists the developer in the maintainer's network. This is very useful in
+larger projects with many committers.
+- **Integration branch** &ndash; a branch that is only used to merge work in from other branches. ```master```,
+for example, should be an integration branch. In most cases, it's a bad idea to code directly on {{site.data.meta.org_name}}'s master
+branches.
 - **```origin```** refers the main remote repository (production).
 - **Tracking branch** &ndash; a local branch that is set up to track a branch in some remote repository.
 - **Topic branch** &ndash; a short-term branch used to address a feature or bug.
 - **Long running branch** &ndash; a branch that could take a while to complete.
 - **Issue** &ndash; a bug or a feature.
-- **Pull Request** &ndash; When a developer is ready to have her or his changes integrated, they use the 
-[pull request](https://help.github.com/articles/using-pull-requests/) feature in GitHub to merge their work into 
+- **Pull Request** &ndash; When a developer is ready to have her or his changes integrated, they use the
+[pull request](https://help.github.com/articles/using-pull-requests/) feature in GitHub to merge their work into
 the main/live/production distribution.
 
 ### The Gauntlet
 
-- ```therepo/origin/master``` is *always* deployable. If it's in ```master```, it can go to production. Period. 
+- ```therepo/origin/master``` is *always* deployable. If it's in ```master```, it can go to production. Period.
 The end.
-- Never code on ```origin/master```, because it's an integration branch. Code on some other branch in your own 
-repository and make pull requests. 
+- Never code on ```origin/master```, because it's an integration branch. Code on some other branch in your own
+repository and make pull requests.
 - Create a remote in your repo that points to the {{site.data.meta.org_name}} repo you're working on:
 
 {% highlight console %}
@@ -110,12 +110,12 @@ $ git fetch {{site.data.meta.org_name}}
 $ git pull --all org_remote
 {% endhighlight %}
 
-- Always branch from ```therepo/origin/master``` when starting something new. 
+- Always branch from ```therepo/origin/master``` when starting something new.
 - A new branch should be tied to something in GitHub's issue tracking
-- Keep your working directory clean. (There should be no un-staged files when committing. Everything should be 
+- Keep your working directory clean. (There should be no un-staged files when committing. Everything should be
 staged or ignored.)
-- Name your branches something meaningful (e.g., ```encoding-bug``` or ```notifications-feature```). If working on 
-a release with many features and people, use your name or initials in the branch name. For example: 
+- Name your branches something meaningful (e.g., ```encoding-bug``` or ```notifications-feature```). If working on
+a release with many features and people, use your name or initials in the branch name. For example:
 ```bill/bug-123```, ```ross/kb-search```, etc.
 
 - Delete branches once they have been merged:
@@ -127,7 +127,7 @@ $ git push :origin/bug-123
 
 The first command deletes the local branch and the second one removed the remote branch.
 
-- Tag releases: 
+- Tag releases:
 
 {% highlight console %}
 $ git status
@@ -138,21 +138,21 @@ $ git push -tags
 {% endhighlight %}
 
 
-The tag command generates and annotated tag in the local repo, but you will also want to push this tag to the 
+The tag command generates and annotated tag in the local repo, but you will also want to push this tag to the
 remote. This is done with the last command.
 
-- Be generous with your commit messages (see below). Avoid ```$ git commit -m``` for big commits, and opt for 
+- Be generous with your commit messages (see below). Avoid ```$ git commit -m``` for big commits, and opt for
 ```$ git commit```, which will drop you into vim or whatever editor you told Git you like.
 
-- Maintainers and pull requests: 
-  - **Do real code reviews on pull requests!** 
-  - Ask questions and leverage GitHub's code review features. 
-  - Run tests before _and_ after merging into master. 
+- Maintainers and pull requests:
+  - **Do real code reviews on pull requests!**
+  - Ask questions and leverage GitHub's code review features.
+  - Run tests before _and_ after merging into master.
   - Do NOT simply click the merge button.  Enter a commit message and/or a comment that explicity states you have read
     the code and find it acceptible.
-  - Own quality and deployment. 
+  - Own quality and deployment.
   - Tag the release when it's ready to go to production. Deployments can pull by tag &ndash; we should do this.
- 
+
 
 ### Remote branches and local branches
 
@@ -173,11 +173,11 @@ remote. This is done with the last command.
     bug-1:   --------------------------------------\----*--------/
 
 
-Ross is working on a feature (```feat-A```) and is a very happy programmer. But along comes a bug. Ross is no 
-longer happy. He's angry and starts to cry, but then realizes he can stash his changes to ```feat-A``` and create 
-a _new_ branch to fix the bug (```bug-1```). Ross creates a ```bug-1``` branch, fixes the bug, all tests pass, he 
-merges to ```master```, pushes to his GitHub repo, and makes a pull request. The maintainer pushed the fixes to 
-production. He then removes the ```bug-1``` branch (```git branch -d bug-1```). He then checks out ```feat-A```, 
+Ross is working on a feature (```feat-A```) and is a very happy programmer. But along comes a bug. Ross is no
+longer happy. He's angry and starts to cry, but then realizes he can stash his changes to ```feat-A``` and create
+a _new_ branch to fix the bug (```bug-1```). Ross creates a ```bug-1``` branch, fixes the bug, all tests pass, he
+merges to ```master```, pushes to his GitHub repo, and makes a pull request. The maintainer pushed the fixes to
+production. He then removes the ```bug-1``` branch (```git branch -d bug-1```). He then checks out ```feat-A```,
 pulls from ```master``` to get the bug fix. Let's look at this in detail:
 
 {% highlight console %}
@@ -194,8 +194,8 @@ $ git status
   #  modified:   models.py
 {% endhighlight %}
 
-At this point, Ross can commit his changes and checkout ```master```, or he can stage his changes, stash them, and 
-then re-apply his stash once he's finished his fix in ```master```. The commit workflow is simple and well known; 
+At this point, Ross can commit his changes and checkout ```master```, or he can stage his changes, stash them, and
+then re-apply his stash once he's finished his fix in ```master```. The commit workflow is simple and well known;
 let's look at the more involved ```stash``` workflow:
 
 {% highlight console %}
@@ -207,7 +207,7 @@ $ git pull origin master
 $ git checkout -b bug-1
 {% endhighlight %}
 
-Ross's new ```bug-1``` branch, based on ```master```, is ready for fixin'. Ross creates unit tests to confirm he 
+Ross's new ```bug-1``` branch, based on ```master```, is ready for fixin'. Ross creates unit tests to confirm he
 can replicate the bug, he fixes the bug, his tests go green. Ross commits his fixes to ```bug-1``` and merges.
 
 {% highlight console %}
@@ -221,8 +221,8 @@ $ git push :origin/bug-1  #if he  had pushed this branch to his remote
 $ git push origin master
 {% endhighlight %}
 
-Ross now submits his pull request. He's ready to get back to `feat-A`. If Ross had previously committed all his 
-work, he'd simply need to re-checkout his `feat-A` branch. However, he decided to ```stash``` instead of 
+Ross now submits his pull request. He's ready to get back to `feat-A`. If Ross had previously committed all his
+work, he'd simply need to re-checkout his `feat-A` branch. However, he decided to ```stash``` instead of
 ```commit```, so he does this instead:
 
 {% highlight console %}
@@ -235,7 +235,7 @@ $ git pull
 $ git stash apply --index
 {% endhighlight %}
 
-Ross is happy again. 
+Ross is happy again.
 
 
 #### Long Running Branch Flow
@@ -243,28 +243,28 @@ Ross is happy again.
     other work:          ------*---------*--------\
     other work:        /---*--*---\----*-\          \
     master:    -*-----*-------------*------*---------* -----------------------------* (ship)
-    major-1:     \-------------*-----------------------*--------*--------------* / 
+    major-1:     \-------------*-----------------------*--------*--------------* /
     mb1:           \-----*----/                      /   \--*--/               /
-    mb2:                          \------*---*---*-/----*-*-------*-\--*----*/                          
+    mb2:                          \------*---*---*-/----*-*-------*-\--*----*/
 
 
-A team has been assembled to build a major release (```major-1```). It's based on ```origin/master``` and is 
-treated as an integration branch. ```mb1``` and ```mb2``` can be branches worked on by different team members. 
-When they agree their work can be integrated, they commit to ```major-1```. The maintainer(s) ensure that all 
-branches and features have been merged and tested, they merge ```mb1``` and ```mb2``` into ```master```, and push 
+A team has been assembled to build a major release (```major-1```). It's based on ```origin/master``` and is
+treated as an integration branch. ```mb1``` and ```mb2``` can be branches worked on by different team members.
+When they agree their work can be integrated, they commit to ```major-1```. The maintainer(s) ensure that all
+branches and features have been merged and tested, they merge ```mb1``` and ```mb2``` into ```master```, and push
 to origin/master.
 
 
-#### Topic branches vs. Long running branches: 
+#### Topic branches vs. Long running branches:
 
-Ask yourself how long it will take and what else is going on with that project. Come up with a quick integration 
+Ask yourself how long it will take and what else is going on with that project. Come up with a quick integration
 plan.
 
 
 ----
 
 ## [Commit messages](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html):  
- 
+
 From the above link, a model commit message:
 
     Capitalized, short (50 chars or less) summary
@@ -289,7 +289,7 @@ From the above link, a model commit message:
 
     - Use a hanging indent
 
-Note that git allows you to create _commit templates_. We may want to consider this. 
+Note that git allows you to create _commit templates_. We may want to consider this.
 
 
 
@@ -316,12 +316,10 @@ If you want to keep up on what others are working on, one fast way is to use Git
 the Chrome RSS Live Links extension to do so. Obviously if you have a preferred RSS feed reader, use it.
 
 1. Add the
-   [RSS Live Links Extension](https://chrome.google.com/webstore/detail/rss-live-links/hcamnijgggppihioleoenjmlnakejdph?hl=en-US)
+   [RSS Subscription Extension](https://chrome.google.com/webstore/detail/rss-subscription-extensio/nlbjncdgjeocebhnmkbbbdekmmmcbfjd?hl=en)
    to Chrome.
-1. Go to github.com and click on the "News Feed" link in the upper right. The resulting URL will be something
+1. Go to github.com and click on the "News Feed" icon in the URL bar. The resulting URL will be something
    like `https://github.com/yourhandle.private.atom?token=longhash`.
-1. Find the Live Links icon in Chrome, to the right of the Address Bar. Click it, then click the wrench to add
-   feeds.
 1. On the Feeds screen, click the "Add" button and add that copied URL.
 1. Rinse and repeat for any other feeds you want. For example, I have feeds specifically for repos I'm interested
    in, such as all commits on the Handbook. To add a feed for commits, follow this format:
@@ -335,7 +333,7 @@ items appear.
 
 
 ----
- 
+
 ## References
 
 - <http://scottchacon.com/2011/08/31/github-flow.html>
