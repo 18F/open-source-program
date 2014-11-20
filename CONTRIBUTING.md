@@ -22,7 +22,7 @@ Thanks for contributing! There are two ways:
 
 ### The Prose.io model
 
-1. Browse the live site, http://if.io/open-source-program-template/
+1. Browse the live site, https://18f.github.io/open-source-program/
 2. At any point, click the "Edit this page in prose.io" link in the left-hand navigation
     - This will drop you into prose.io
     - You will need _authorize_ prose.io to access your GitHub account. There should be a link in the lower right-hand
