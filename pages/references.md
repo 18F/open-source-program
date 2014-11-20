@@ -20,7 +20,7 @@ published: true
 
 ## Books
 1. Simon Phipps; [_Open Source Strategies for the Enterprise_](http://www.amazon.com/Source-Strategies-Enterprise-Simon-Phipps-ebook/dp/B008HMN6EU)
-1. Mike Hendrickson, Roger Magoulas , Tim O'Reilly; [_Economic Impact of Open Source on Small Business: A Case Study_](http://www.amazon.com/Economic-Impact-Source-Small-Business-ebook/dp/B00IG2UVSU/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1395782895&sr=1-1&keywords=Economic+Impact+of+open+source)
+1. Mike Hendrickson, Roger Magoulas , Tim O'Reilly; [_Economic Impact of Open Source on Small Business: A Case Study_](http://www.oreilly.com/programming/free/economic-impact-of-open-source.csp)
 1. Karl Fogel; [_Producing Open Source Software: How to Run a Successful Free Software Project_](http://www.amazon.com/Producing-Open-Source-Software-Successful-ebook/dp/B0026OR37Q/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1395782996&sr=1-1&keywords=producing+open+source+software)
 1. Chris DiBona, Mark Stone, Danese Cooper, [_Open Sources 2.0: The Continuing
  Evolution_](http://www.amazon.com/Open-Sources-2-0-Continuing-Evolution-ebook/dp/B0026OR2PO/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1395783042&sr=1-1&keywords=open+sources+2.0)

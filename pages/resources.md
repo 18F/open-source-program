@@ -25,12 +25,12 @@ title: "Resources"
 * [Open Source Checklist](http://18f.github.io/open-source-program/pages/opensource_checklist)
 * [Open Source Policy](http://18f.github.io/open-source-program/pages/model_oss_policy)
 
-### Videos and Webinars 
+### Videos and Webinars
 * [GitHub for Government Webinar](http://www.youtube.com/watch?v=sr0NeWFCQaI)
 * [GitHub for Government: Prospects of a Code Sharing Community](http://www.youtube.com/watch?v=4RCto1Ss6Uk&feature=youtu.be)
 
-### Other Material 
-* [How to Use More Open Source - 18F](http://18f.github.io/aaa/docs/how_to_use_more_open_source.pdf)
+### Other Material
+* [How to Use More Open Source - 18F](http://18f.github.io/consulting/docs/how_to_use_more_open_source.pdf)
 * [DOD Frequently Asked Questions about Open Source Software](http://dodcio.defense.gov/OpenSourceSoftwareFAQ.aspx)
 * [Use of Free and Open-Source Software (FOSS) in the U.S. Department of Defense](http://dodcio.defense.gov/Portals/0/Documents/FOSS/dodfoss_pdf.pdf)
 * [Examples of Open Source Precedence in Government](https://github.com/gbinal/open-source-notes/blob/master/agency-examples.md)

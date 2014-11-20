@@ -18,7 +18,7 @@ Open Source Software (OSS) is software that also includes the program's source c
 In almost all cases, the software is licensed such that it can be modified by anyone
 and used in any environment.  It typically doesn't cost anything and there are no
 legally binding guarantees.  The official US Department of Defense
-[definition](http://dodcio.defense.gov/Portals/0/Documents/OSSFAQ/2009OSS.pdf) 
+[definition](http://dodcio.defense.gov/Portals/0/Documents/OSSFAQ/2009OSS.pdf)
 is "software for which the human-readable source code is available for use, study, re-use, modification, enhancement,
 and re-distribution by the users of that software".<a href="#top" class="reversefootnote">↩</a>
 
@@ -26,27 +26,27 @@ and re-distribution by the users of that software".<a href="#top" class="reverse
 
 #### What are the key benefits and risks of using OSS?
 
-An organization does not have to officially procure or purchase open 
+An organization does not have to officially procure or purchase open
 source software licenses, as, under most licenses, the software and it's source code
 are free and can be modified as needed. So, from a product procurement perspective, OSS
 is not an issue.  However, you need the skills to integrate and maintain the software.
 Additionally, most open source software does not come with a warranty, so, if it doesn't
 do what you expect, or it breaks, you must rely on the product's community for support.
 
-Community support, in many cases is quite good and you frequently deal with people who 
-are intimately familiar with the inner workings of the product. They may very well be the 
+Community support, in many cases is quite good and you frequently deal with people who
+are intimately familiar with the inner workings of the product. They may very well be the
 software's author.  That said, some communities and products go stale and community support
 is difficult to find. Have the in-house skills, in these cases, is very helpful.
 <a href="#top" class="reversefootnote">↩</a>
 
 Another risk is the loss of personal identifying information, or _PII_, which may accidentally
 be in the software's source code.  Even the best programmers
-and security specialists make mistakes and these can be costly to an organization's reputation and, 
+and security specialists make mistakes and these can be costly to an organization's reputation and,
 for government agencies, this can affect public trust. Organizations should implement sufficient
-quality controls and code reviews to reduce this risk.  Refer to the [git workflow document](pages/git_workflow)
+quality controls and code reviews to reduce this risk.  Refer to the [git workflow document](../git_workflow/)
 for ideas.
 
-An organization who is actively accepting changes from the public runs the risk of inadvertently 
+An organization who is actively accepting changes from the public runs the risk of inadvertently
 accepting undesirable code. The code could have bugs, security vulnerabilities, and other nastiness.
 Again, implementing and following good workflows greatly reduces these risks.
 
@@ -55,11 +55,11 @@ Again, implementing and following good workflows greatly reduces these risks.
 #### What kind of license should we use?
 
 Open source software suffers from a fragmented plethora of licensing and there
-are many good practical and philosophical arguments why one license 
+are many good practical and philosophical arguments why one license
 should be chosen over another and your situation may vary.  Start with the
 [Open Source Initiative](http://opensource.org/) for licensing considerations.
 
-Some government agencies consider the software and code they produce as 
+Some government agencies consider the software and code they produce as
 being in the public domain, and there are various descriptions of that; e.g.,
 [CC0](http://creativecommons.org/publicdomain/zero/1.0/).  NASA has it's own
 version, which is labelled as an [Open Source Software Agreement](http://ti.arc.nasa.gov/opensource/nosa/).
@@ -99,14 +99,14 @@ in a given environment. <a href="#top" class="reversefootnote">↩</a>
 
 
 #### Why do developers participate in OSS if they don't get paid?
-There a many reasons; some are individual and are others may be more generalized. 
+There a many reasons; some are individual and are others may be more generalized.
 
-A developer's reputation and ability get good jobs can be greatly improved by participating in OSS. 
-Effectively, participating in OSS builds a public portfolio that can be used by the developer and prospective 
+A developer's reputation and ability get good jobs can be greatly improved by participating in OSS.
+Effectively, participating in OSS builds a public portfolio that can be used by the developer and prospective
 employers to determine if there is a good match.  Because of the need for public reputation, developers pay
 often more attention to detail, security, and quality than if the software were not facing the public.
 
-Many developers work remotely and in very specialized areas.  OSS is global which allows developers to 
+Many developers work remotely and in very specialized areas.  OSS is global which allows developers to
 connect with a broad and diverse community.  In many cases, developers collaborate and forge strong partnerships
 and friendships with other developers and may never meet face-to-face.  <a href="#top" class="reversefootnote">↩</a>
 

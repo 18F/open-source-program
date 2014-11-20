@@ -1,5 +1,5 @@
 # Base configuration
-permalink: /news/:title 
+permalink: pretty
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 markdown: kramdown
 pygments: true
@@ -16,7 +16,7 @@ media: assets/img
 
 # Your Programs's Name
 name: Government Open Source
-subtitle: Material to support open source in government 
+subtitle: Material to support open source in government
 
 # When using this template with a project page set the baseurl to '/project-name'
 # For user/organization pages set this to an empty string
@@ -27,7 +27,7 @@ baseurl: '/open-source-program'
 
 # Author/Organization info to be displayed in the templates
 author:
-  name: 18F 
+  name: 18F
   url: http://localhost:4000
 
 # ------------------------------------------------------------------
@@ -37,32 +37,29 @@ author:
 # ------------------------------------------------------------------
 navigation:
 - text: Home
-  url: index
+  url: ''
   internal: true
 - text: Community
-  url: pages/community
-  internal: true 
+  url: pages/community/
+  internal: true
 - text: In The News
-  url: pages/news
-  internal: true 
+  url: pages/news/
+  internal: true
 - text: Upcoming Events
-  url: pages/events
-  internal: true 
+  url: pages/events/
+  internal: true
 - text: Policy Documents
-  url: pages/policy_documents
-  internal: true 
+  url: pages/policy_documents/
+  internal: true
 - text: Open Source Solutions
-  url: pages/open_source_solutions
-  internal: true 
+  url: pages/open_source_solutions/
+  internal: true
 - text: Resources
-  url: pages/resources
-  internal: true 
+  url: pages/resources/
+  internal: true
 - text: Case Studies
-  url: pages/case_study_list
-  internal: true 
+  url: pages/case_study_list/
+  internal: true
 - text: FAQs
-  url: pages/faq
-  internal: true 
-
-
-
+  url: pages/faq/
+  internal: true
