@@ -4,10 +4,11 @@
   <nav role="navigation">
     <ul>
       {% for link in site.data.navigation %}
-        {% if link.internal == true %}
-          <li><a href="{{ site.baseurl }}/{{ link.url }}">{{ link.text }}</a></li>
-        {% else %}
+        {% if link.url contains 'http:' or link.url contains 'https:' %}
           <li><a href="{{ link.url }}">{{ link.text }}</a></li>
+        {% else %}
+          {% comment %} Internal link {% endcomment %}
+          <li><a href="{{ site.baseurl }}/{{ link.url }}">{{ link.text }}</a></li>
         {% endif %}
       {% endfor %}
       <li>{% include prose_edit_url.html %}</li>
