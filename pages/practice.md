@@ -1,4 +1,7 @@
-## Practicing our open source policy
+---
+layout: page
+title: "Practicing our open source policy"
+---
 
 This document is meant to give specific team guidance on putting our [open source policy](policy.md) into practice.
 

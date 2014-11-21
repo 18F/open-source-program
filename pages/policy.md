@@ -1,4 +1,7 @@
-# 18F: An Open Source Team
+---
+layout: page
+title: "18F's Open Source Policy"
+---
 
 [18F](https://18f.gsa.gov), a digital services delivery team within the [General Services Administration](http://gsa.gov), develops in-house digital solutions to help agencies meet the needs of the citizens and businesses it serves. This requires flexibility in how we code, with a focus on lowering costs for the American people, while improving their interactions with the U.S. Government.
 
@@ -8,7 +11,7 @@ The default position of 18F when developing new projects is to:
 2. Develop our work in the open.
 3. Publish publicly all source code created or modified by 18F, whether developed in-house by government staff or through contracts negotiated by 18F.
 
-## Benefits
+### Benefits
 
 Using FOSS allows for product customization, advances interoperability between tools, and improves the overall quality of the final product. Other benefits include:
 
@@ -20,7 +23,7 @@ Using FOSS allows for product customization, advances interoperability between t
 
 1. **Reusability.** The code we create belongs to the American people as a part of the public domain. The code we work on was paid for by the American people, but the end-product is not the only way they should be able to interact with their government. By coding in FOSS, we help populate a larger commons that cities, states, businesses, and citizens can participate in. This creates real economic value by lowering the burden of replicating similar work or by allowing the private sector to build off of and create new businesses around code developed at 18F.
 
-## Maximizing Community Involvement and Reuse
+### Maximizing Community Involvement and Reuse
 
 Active involvement from the open source community is integral to the success of open source code. 18F will be an active contributor to FOSS projects that it or its clients utilize, whether they are maintained or operated by 18F.
 
@@ -36,7 +39,7 @@ This changes when our code repositories include code that was not created by 18F
 
 The public can use our code as the basis of wholly proprietary and commercial systems. 18F would appreciate that users of our code disclose its lineage, but 18F maintains no legal right to require disclosure. Notifications that our work is used in a new system are always greatly appreciated.
 
-## Open Source Licenses
+### Open Source Licenses
 
 As previously mentioned, most work generated at 18F falls within the U.S. public domain.
 
@@ -50,13 +53,13 @@ However, certain projects will require the usage of licensed open source softwar
 
 Each project may need to modify or extend the above LICENSE and CONTRIBUTING files as needed for its own circumstances.
 
-## Distribution of Code
+### Distribution of Code
 
 There is a misconception that FOSS that is distributed to the public should not be integrated or modified for use in sensitive systems. On the contrary, FOSS is often preferred for use in sensitive systems, due in part to its increased auditability. In other words, security in FOSS must be designed never to rely on obscurity in how the code works.
 
 In addition, while open source licenses permit the user to modify OSS for internal use without obligating them to distribute source code to the public, when the user chooses to distribute the modified OSS outside the user's organization, then the code is subject to whatever license it carries.
 
-## Exceptions
+### Exceptions
 
 The only conditions where code shall not be developed and released in the open are:
 
@@ -68,10 +71,10 @@ These decisions will be made as needed by the 18F DevOps team, which will lead a
 
 If an existing solution cannot be found in the open source community, 18F may consider other options, including creating an open source solution itself. Ultimately, the software that best meets the needs and mission of 18F should be used.
 
-## Thanks
+### Thanks
 
 18F would like to thank the Consumer Financial Protection Bureau, Department of Defense, and Office of Management and Budget for their work in blazing the path for the use of FOSS in the Federal Government.
 
-## Future Changes
+### Future Changes
 
-This policy is a living document. 18F expects to make changes to this policy in the future, and we welcome [issues](https://github.com/18f/open-source-policy/issues) and pull requests. To contact us privately, email <a href="mailto:18F@gsa.gov">18F@gsa.gov</a>.
+This policy is a living document. 18F expects to make changes to this policy in the future, and we welcome [issues](https://github.com/18f/open-source-program/issues) and pull requests. To contact us privately, email <a href="mailto:18F@gsa.gov">18F@gsa.gov</a>.
