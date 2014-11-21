@@ -30,3 +30,6 @@
 - text: FAQs
   url: pages/faq/
   internal: true
+- text: Feedback
+  url: https://github.com/18F/open-source-program/issues
+  internal: false
