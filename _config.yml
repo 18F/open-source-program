@@ -2,7 +2,7 @@
 permalink: pretty
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 markdown: kramdown
-pygments: true
+highlighter: pygments
 
 #Prose.io editing info
 repo_name: open-source-program
