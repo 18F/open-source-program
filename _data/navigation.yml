@@ -1,0 +1,32 @@
+# ------------------------------------------------------------------
+#   Navigation
+#   List links that should appear in the site sidebar here
+#   "pages" is a directory to keep web content that are not posts
+# ------------------------------------------------------------------
+- text: Home
+  url: ''
+  internal: true
+- text: Community
+  url: pages/community/
+  internal: true
+- text: In The News
+  url: pages/news/
+  internal: true
+- text: Upcoming Events
+  url: pages/events/
+  internal: true
+- text: Policy Documents
+  url: pages/policy_documents/
+  internal: true
+- text: Open Source Solutions
+  url: pages/open_source_solutions/
+  internal: true
+- text: Resources
+  url: pages/resources/
+  internal: true
+- text: Case Studies
+  url: pages/case_study_list/
+  internal: true
+- text: FAQs
+  url: pages/faq/
+  internal: true
