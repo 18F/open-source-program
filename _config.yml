@@ -1,6 +1,13 @@
 # Base configuration
 permalink: pretty
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+exclude:
+- .gitignore
+- .rvmrc
+- .rbenv-version
+- CONTRIBUTING.md
+- Gemfile
+- README.md
+- Rakefile
 markdown: kramdown
 highlighter: pygments
 
