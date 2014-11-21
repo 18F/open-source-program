@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Account Management at GitHub.com"
 authors: "@benbalter and @daveloyall"
 
@@ -29,7 +28,7 @@ Like the examples above, it may be possible to leverage the GitHub API to dynami
 #### Two-factor Authentication
 
 As of 2013, GitHub allows for 2-factor authentication. This is a recommended extra step that can help organizations
-secure it's assets and demonstrate access controls. 
+secure its assets and demonstrate access controls.
 
  - [Wikipedia: Multi-factor authentication](http://en.wikipedia.org/wiki/Multi-factor_authentication)
  - [GitHub blog post describing 2FA](https://github.com/blog/1614-two-factor-authentication)
@@ -56,5 +55,3 @@ To set up your Gravatar, simply follow the instructions on your profile page. Th
 #### Social Media Registry
 
 If you're a US Federal Agency, be sure to add your organization account to the [US Social Media Registry](http://www.usa.gov/About/developer-resources/social-media-registry.shtml) for optimum discoverability.
-
-

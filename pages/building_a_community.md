@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Building a Community"
 authors: "@benbalter"
 

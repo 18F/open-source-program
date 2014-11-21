@@ -1,5 +1,4 @@
 ---
-layout: page
 tite: "Government Open Source In The News"
 ---
 

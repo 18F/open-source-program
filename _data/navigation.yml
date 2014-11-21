@@ -1,0 +1,25 @@
+# ------------------------------------------------------------------
+#   Navigation
+#   List links that should appear in the site sidebar here
+#   "pages" is a directory to keep web content that are not posts
+# ------------------------------------------------------------------
+- text: Home
+  url: ''
+- text: Community
+  url: pages/community/
+- text: In The News
+  url: pages/news/
+- text: Upcoming Events
+  url: pages/events/
+- text: Policy Documents
+  url: pages/policy_documents/
+- text: Open Source Solutions
+  url: pages/open_source_solutions/
+- text: Resources
+  url: pages/resources/
+- text: Case Studies
+  url: pages/case_study_list/
+- text: FAQs
+  url: pages/faq/
+- text: Feedback
+  url: https://github.com/18F/open-source-program/issues

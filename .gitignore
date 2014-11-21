@@ -3,3 +3,5 @@
 *.tmp
 _site
 Gemfile.lock
+.python-version
+

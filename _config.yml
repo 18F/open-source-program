@@ -1,8 +1,22 @@
 # Base configuration
 permalink: pretty
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+exclude:
+- .gitignore
+- .rvmrc
+- .rbenv-version
+- CONTRIBUTING.md
+- Gemfile
+- README.md
+- Rakefile
 markdown: kramdown
-pygments: true
+highlighter: pygments
+defaults:
+  -
+    scope:
+      path: ''
+      type: pages
+    values:
+      layout: page
 
 #Prose.io editing info
 repo_name: open-source-program
@@ -10,9 +24,6 @@ branch: gh-pages
 #GitHub organization name *or* username
 gh_org: 18f
 prose_url: http://github.com/
-site_url: http://18f.github.io/open-source-program
-media: assets/img
-
 
 # Your Programs's Name
 name: Government Open Source
@@ -29,37 +40,3 @@ baseurl: '/open-source-program'
 author:
   name: 18F
   url: http://localhost:4000
-
-# ------------------------------------------------------------------
-#   Navigation
-#   List links that should appear in the site sidebar here
-#   "pages" is a directory to keep web content that are not posts
-# ------------------------------------------------------------------
-navigation:
-- text: Home
-  url: ''
-  internal: true
-- text: Community
-  url: pages/community/
-  internal: true
-- text: In The News
-  url: pages/news/
-  internal: true
-- text: Upcoming Events
-  url: pages/events/
-  internal: true
-- text: Policy Documents
-  url: pages/policy_documents/
-  internal: true
-- text: Open Source Solutions
-  url: pages/open_source_solutions/
-  internal: true
-- text: Resources
-  url: pages/resources/
-  internal: true
-- text: Case Studies
-  url: pages/case_study_list/
-  internal: true
-- text: FAQs
-  url: pages/faq/
-  internal: true

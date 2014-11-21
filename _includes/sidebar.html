@@ -3,17 +3,15 @@
   <a class="skip-link visuallyhidden focusable" href="#main">Skip to Main Content</a>
   <nav role="navigation">
     <ul>
-      {% for link in site.navigation %}
-        {% if link.internal == true %}
-          <li><a href="{{ site.baseurl }}/{{ link.url }}">{{ link.text }}</a></li>
-        {% else %}
+      {% for link in site.data.navigation %}
+        {% if link.url contains 'http:' or link.url contains 'https:' %}
           <li><a href="{{ link.url }}">{{ link.text }}</a></li>
+        {% else %}
+          {% comment %} Internal link {% endcomment %}
+          <li><a href="{{ site.baseurl }}/{{ link.url }}">{{ link.text }}</a></li>
         {% endif %}
-        {% endfor %}
-
-        <!-- Prose.io edit link -->
-        <li><a href="https://github.com/18F/open-source-program/issues">Feedback</a></li>
-        <li>{% include prose_edit_url.html %}</li>
+      {% endfor %}
+      <li>{% include prose_edit_url.html %}</li>
     </ul>
   </nav>
 </aside>
