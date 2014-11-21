@@ -10,6 +10,13 @@ exclude:
 - Rakefile
 markdown: kramdown
 highlighter: pygments
+defaults:
+  -
+    scope:
+      path: ''
+      type: pages
+    values:
+      layout: page
 
 #Prose.io editing info
 repo_name: open-source-program

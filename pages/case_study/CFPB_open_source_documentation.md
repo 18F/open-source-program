@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "CFPB Open Source Documentation"
 ---
 

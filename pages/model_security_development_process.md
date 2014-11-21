@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Model Security Development Process"
 ---
 
