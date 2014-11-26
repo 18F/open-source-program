@@ -81,6 +81,6 @@ title: Open Source Maintainer Guidelines
         * http://producingoss.com/
         * http://wiki.civiccommons.org/Open_Source_Development_Guidelines
 * Releases
-    * Semantic versioning w/ corresponding tags
+    * [Semantic versioning](http://semver.org/) w/ corresponding tags
     * Changelog.md or [GitHub Releases](https://help.github.com/categories/releases/)
 * Establish a consistent coding style, throughout the project or even the organization.
