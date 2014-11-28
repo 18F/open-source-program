@@ -2,7 +2,7 @@
 title: "Case Studies"
 ---
 
-* [CFPB Open Source Documentation](http://18f.github.io/open-source-program/pages/case_study/CFPB_open_source_documentation)
+* [CFPB Open Source Documentation](../case_study/CFPB_open_source_documentation)
 * [A Case Study in Business Application Development Using Open Source and Semantic Web Technologies](http://webcache.googleusercontent.com/search?q=cache:ftp9WtE_aKoJ:www.mel.nist.gov/msidlibrary/doc/B5_Case.pdf+&cd=1&hl=en&ct=clnk&gl=us)
 * [OpenStudio: An Open Source Integrated Analysis Platform](http://www.nrel.gov/docs/fy12osti/51836.pdf)
 * [How DOL Created Software Development Kits (SDKs) - Case Study](http://18f.github.io/API-All-the-X/pages/casestudy_dol)
