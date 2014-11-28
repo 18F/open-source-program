@@ -14,14 +14,14 @@ title: "Resources"
 
 ### Guides
 * [GitHub Best Practices for Government](../github_best_practices)
-* [How to Build Community](../building_a_community/)
-* [How to Manage Accounts on GitHub.com](../account_management/)
+* [How to Build Community](http://if.io/open-source-program-template/pages/building_a_community.html)
+* [How to Manage Accounts on GitHub.com](http://if.io/open-source-program-template/pages/account_management)
 
 ### Models
 * [Agency Open Source Hub](https://github.com/virtix/open-source-program-template)
 * [Security Development Process](../model_security_development_process/)
-* [Guiding Principles](../guiding_principles)
-* [Open Source Checklist](../opensource_checklist)
+* [Guiding Principles](http://if.io/open-source-program-template/pages/guiding_principles)
+* [Open Source Checklist](http://if.io/open-source-program-template/pages/opensource_checklist)
 * [Open Source Policy](../model_oss_policy)
 
 ### Videos and Webinars
