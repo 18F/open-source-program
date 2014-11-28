@@ -1,4 +1,4 @@
-/ri*
+/*
 Main.css
 ==================================
 Begin with generic 'mobile first' styles
@@ -34,9 +34,9 @@ hr {
     border: 0;
     background: rgba(133,133,133,.10);
     /*
-    background-image: -webkit-linear-gradient(left, #ccc, #333, #ccc); 
-    background-image: -moz-linear-gradient(left, #ccc, #333, #ccc); 
-    background-image: -ms-linear-gradient(left, #ccc, #333, #ccc); 
+    background-image: -webkit-linear-gradient(left, #ccc, #333, #ccc);
+    background-image: -moz-linear-gradient(left, #ccc, #333, #ccc);
+    background-image: -ms-linear-gradient(left, #ccc, #333, #ccc);
     background-image: -o-linear-gradient(left, #ccc, #333, #ccc); */
 }
 
@@ -157,25 +157,25 @@ a:link,
 a:visited {
     color: #0072ce;
     border-bottom: 1px dotted #0072ce;
-    text-decoration: none; 
+    text-decoration: none;
 }
 
 a:hover {
-    border-bottom: 1px solid #7eb8dd; 
-    color: #7eb8dd; 
+    border-bottom: 1px solid #7eb8dd;
+    color: #7eb8dd;
     text-decoration: none;
 }
 
 a:active {
-    border-bottom: 1px solid #002d72; 
-    color: #002d72; 
+    border-bottom: 1px solid #002d72;
+    color: #002d72;
     text-decoration: none;
 }
 
 a:focus {
-    border-bottom: 1px solid #0072ce; 
-    color: #0072ce; 
-    outline: thin dotted; 
+    border-bottom: 1px solid #0072ce;
+    color: #0072ce;
+    outline: thin dotted;
     text-decoration: none;
 }
 
@@ -244,10 +244,10 @@ Layout
 
 /* offset the fixed position header for jump links */
 section:before {
-    display: block; 
-    content: ""; 
-    height: 60px; 
-    margin: -60px 0 0; 
+    display: block;
+    content: "";
+    height: 60px;
+    margin: -60px 0 0;
 }
 
 .wrap {
@@ -341,7 +341,7 @@ li h4 {
 .license {
     font-family: "Avenir Next Demi", Arial, sans-serif;
     font-weight: normal;
-    font-style: normal; 
+    font-style: normal;
 }
 
 .highlight {
@@ -520,7 +520,7 @@ Desktop Styles
 }
 
 @media screen and (max-width: 54.375em) and (min-height: 32.5em) {
-    
+
     /* keep the repo list containers the same height, but account for the need for more height */
 
     .repo-list li {
