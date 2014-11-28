@@ -16,6 +16,9 @@ published: true
 1. Open Source Inititiative; [http://opensource.org/](http://opensource.org/)
 1. David Wheeler, PhD; [http://www.dwheeler.com/](http://www.dwheeler.com/)
 1. A list of government open source projects; [http://govcode.org/](http://govcode.org/)
+1. Open Source for Government (Google Community);
+   [https://plus.google.com/communities/110268213869494409273](https://plus.google.com/communities/110268213869494409273)
+1. GOSCON; [http://goscom](http://goscon.org/)
 
 ## Books
 1. Simon Phipps; [_Open Source Strategies for the Enterprise_](http://www.amazon.com/Source-Strategies-Enterprise-Simon-Phipps-ebook/dp/B008HMN6EU)
