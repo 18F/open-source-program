@@ -2,6 +2,9 @@
 tite: "Government Open Source In The News"
 ---
 
+### November 28, 2014
+* [In Praise of Commoditization](https://esq.io/blog/posts/in-praise-of-commoditization/)
+
 ### November 24, 2014 
 * [6 Tips for Adopting Open Source](http://opensource.com/government/14/11/6-tips-adopting-open-source)
 
