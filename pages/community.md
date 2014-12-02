@@ -11,6 +11,7 @@ title: "Community"
 ## Agency/Program Hubs
 * [Ames Lab - DOE](https://www.ameslab.gov/open-source-software)
 * [Consumer Financial Protection Bureau](http://cfpb.github.io/)
+* [DARPA Open Source Catalog](http://www.darpa.mil/opencatalog/XDATA.html)
 * [Data.gov](https://www.data.gov/developers/open-source)
 * [Department of Defense](http://forge.mil/)
 * [Federal Communications Commission](http://www.fcc.gov/developers#opensource)
