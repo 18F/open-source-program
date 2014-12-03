@@ -2,6 +2,10 @@
 title: Open Source Maintainer Guidelines
 ---
 
+*DISCLAIMER: This page is a work-in-progress. Feedback is very appreciated – just [open an issue](https://github.com/18F/open-source-program/issues/new).*
+
+---
+
 There is a big difference between "throwing source code over the wall", and making a project that is amenable to contributions.
 
 Some terminology used may be GitHub-specific, but the concepts are applicable regardless of version control system or platform.
