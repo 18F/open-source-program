@@ -18,7 +18,7 @@ preference in accordance with 41 USC 264B (reference (b)) (see also FAR 2.101(b)
 
 b) Executive agencies, including {AGENCY}, are required to conduct market research when preparing for
  the procurement of products or services by 41 USC Sec. 253a (reference (e)) (see also FAR
- 10.001. Market research for software should include OSS.
+ 10.001. Market research for software must include relevant OSS.
 
  
 > a. There are several positive aspects of OSS that should compel {AGENCY} to seek out OSS when
@@ -69,16 +69,17 @@ and ultimately Designated Approving Authorities (DAAs), must ensure that the pla
 support (e.g., commercial or Government program office support) is adequate for mission need.
 
 
-d) It is important to understand both the specifics of the open source license in question and
- how {AGENCY} intends to use and redistribute any {AGENCY}-modified OSS. There is a misconception
- that the Government is always obligated to distribute the source code of any modified OSS to
+d) It is important to understand both the specifics of any software license and
+ how {AGENCY} intends to use and redistribute the software.  This includes any {AGENCY}-modified OSS.
+ There is a misconception that the Government is always obligated to distribute the source code of any modified OSS to
  the public, and therefore that OSS should not be integrated or modified for use in sensitive
  {AGENCY} systems. In contrast, many open source licenses permit the user to modify OSS for
  internal use without being obligated to distribute source code to the public. However, if the
  user chooses to distribute the modified OSS outside the user's organization (e.g., a
  Government user distributes the code outside the Government), then some OSS licenses (such as
  the GNU General Public License) do require distribution of the corresponding source code to
- the recipient of the software.
+ the recipient of the software.  Such distribution may be acceptable or desirable, but the Government should
+ make this determination before selecting software that will be modified and redistributed outside the Government.
 
 
 e) When contracting developer services, {AGENCY} will encourage vendors to use open source technology
@@ -91,7 +92,8 @@ f) In order to facilitate the auditing of {AGENCY}'s software catalog, the devel
 --
 
 a) Software source code written entirely by {AGENCY} staff, and by contractors who are developing
-   software on behalf of {AGENCY}, is by default a public domain work.
+   software on behalf of {AGENCY}, is by default released to the public worldwide without copyright restrictions
+   (aka "public domain").
 
 
 b) Software source code previously released under an open source license and then modified by
@@ -110,11 +112,11 @@ distribution or provide value to the broader community.
 
 > b. The Government does not have the rights to reproduce and release the item. The
 Government has public release rights when the software is developed by Government
-personnel, when the Government receives "unlimited rights" in software developed by a
-contractor at Government expense, or when pre-existing OSS is modified by or for the Government.
+personnel and when the Government receives "unlimited rights" in software developed by a
+contractor at Government expense.
 
-> c. The public release of the item is restricted by other law or regulation, such as the
-Export Administration Regulations or the International Traffic in Arms Regulation.
+> c. The public release of the item is restricted by other law or regulation, such as the laws governing
+classified information, the Export Administration Regulations, or the International Traffic in Arms Regulation.
         
 > d. {AGENCY} cybersecurity staff determine that the public release of such code would pose an
 unacceptable risk to {AGENCY}'s operational security.
