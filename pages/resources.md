@@ -27,6 +27,7 @@ title: "Resources"
 ### Videos and Webinars
 * [GitHub for Government Webinar](http://www.youtube.com/watch?v=sr0NeWFCQaI)
 * [GitHub for Government: Prospects of a Code Sharing Community](http://www.youtube.com/watch?v=4RCto1Ss6Uk&feature=youtu.be)
+* [Out in the Open: The Role of Open Source in Building the Consumer Financial Protection Bureau](https://www.youtube.com/watch?v=tce1B02ZGqc&feature=youtu.be)
 
 ### Other Material
 * [How to Use More Open Source - 18F](http://18f.github.io/consulting/docs/how_to_use_more_open_source.pdf)
