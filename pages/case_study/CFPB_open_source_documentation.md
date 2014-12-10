@@ -11,4 +11,8 @@ At the General Services Administration, a team working on SAM.gov was preparing 
 **Updates:** 
 
 * The GSA Auctions API team followed the same path in publishing [their new API](http://gsa.github.io/auctions_api/), further increasing the savings from this re-use project.  
+* The Regulations.gov API team is now [using this project as well](http://regulationsgov.github.io/developers/).  
 * This topic is covered in further detail in [this Digital Government University session](http://youtu.be/ZRhRU5y0jEk?t=36m33s).  
+
+
+
