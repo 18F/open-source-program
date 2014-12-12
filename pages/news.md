@@ -4,6 +4,7 @@ tite: "Government Open Source In The News"
 
 ### December 1, 2014
 * [18F’s Robert Read, Eric Mill Offer Open Source Tips on Fed Acquisition](http://www.executivegov.com/2014/12/18fs-robert-read-eric-mills-offer-open-source-tips-on-fed-acquisition/)
+* [NSA releases open source tool for high-volume data flows](http://gcn.com/Articles/2014/12/01/NSA-NiFi.aspx)
 
 ### November 28, 2014
 * [In Praise of Commoditization](https://esq.io/blog/posts/in-praise-of-commoditization/)
