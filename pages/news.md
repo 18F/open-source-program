@@ -2,6 +2,9 @@
 tite: "Government Open Source In The News"
 ---
 
+### December 11, 2014
+* [Why Governments want Open Source Software](http://www.lambdasolutions.net/blog/2014/12/governments-open-source-software/)
+
 ### December 1, 2014
 * [18F’s Robert Read, Eric Mill Offer Open Source Tips on Fed Acquisition](http://www.executivegov.com/2014/12/18fs-robert-read-eric-mills-offer-open-source-tips-on-fed-acquisition/)
 * [NSA releases open source tool for high-volume data flows](http://gcn.com/Articles/2014/12/01/NSA-NiFi.aspx)
