@@ -16,6 +16,9 @@ There is a big difference between "throwing source code over the wall", and maki
 Some terminology used may be GitHub-specific, but the concepts are applicable regardless of version control system or platform.
 
 ## Code documentation
+
+For a library, at least part of code documentation will be targeted at users, while for other projects, it is for contributors. Make sure to:
+
 1. Document parameters and returns for each public function or method. This should be done by standardized comments in the code.
 1. Document the general purpose of each class, module. This should be done by standardized comments in the code.
 1. Include a step by step document of the source code IF the code is very complex, will be used widely in the open source community, may not be reused directly/as-is but general concepts are modifiable, or is a general library that could be included in different types of projects.
@@ -36,7 +39,7 @@ Some terminology used may be GitHub-specific, but the concepts are applicable re
 Whether the "README" exists as a Markdown file in the repository or as a dedicated web page, project documentation is crucial to provide an entry point for potential users. It should contain the following:
 
 * A quick description of what the project is for
-* Instructions of how to use, run, develop, and test the code
+* Instructions of how to use and run the code
 	* Test to ensure these instructions work whenever the relevant code changes.
 	* Include separate sections for using a project vs developing for it
 	* Try to keep these instructions as simple as possible, meaning keeping the build process so its easy to execute.
@@ -44,15 +47,17 @@ Whether the "README" exists as a Markdown file in the repository or as a dedicat
 	* Avoid acronyms
 	* Use names that are descriptive of the project purpose
 	* Check with your communications team before locking in a name - there may be political/agency/business considerations
-* [Usage documentation](#usage-documentation)
-* A link to the [code documentation](#code-documentation)
+* Include the various types of documentation, either as links, or if short, within the same document:
+	* [Usage](#usage-documentation)
+	* [Code](#code-documentation)
+	* [Developer](#developer-documentation)
 * Include contact information for receiving more information
 * Make it clear where to ask questions
     * Issues
     * Stack Overflow (and whether to use a specific tag – http://stackoverflow.com/questions/tagged/SOMETHING)
     * chat
         * [Gitter](https://gitter.im/)
-        * IRC (e.g. https://webchat.freenode.net/?channels=SOMETHING)
+        * IRC (https://webchat.freenode.net/?channels=SOMETHING)
     * Mailing list
 * Include links to additional/alternative resources
     * Bonus: explain how your project is different
@@ -79,7 +84,7 @@ Whether the "README" exists as a Markdown file in the repository or as a dedicat
     * someone to take the reins, in case you get hit by a bus
     * someone to bounce ideas off of
 
-### TODOs
+### Issue tracking
 
 * make Issues public
     * issue tracker/roadmap that isn't publicly visible makes it difficult for others to dive in
@@ -87,9 +92,13 @@ Whether the "README" exists as a Markdown file in the repository or as a dedicat
     * "help wanted"
     * "beginner-friendly"
 
-### Contributor guidelines
+### Developer documentation
+
+Part of your documentation should be guidelines targeted at (potential) contributors. This should include:
 
 * [CONTRIBUTING.md](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
+* Include any additional setup steps
+* Include instructions for running the tests
 * Explain requirements
     * Contributor License Agreement
         * [CLAHub](https://www.clahub.com/)
@@ -100,7 +109,7 @@ Whether the "README" exists as a Markdown file in the repository or as a dedicat
     * Encourage proposals before big changes
     * "Show me the code"
 * WIP PRs are ok
-* Instruct if you prefer commits be rebased
+* Instruct if you prefer commits be rebased, or if there's any other specific [style guidelines](#style) to be followed
 
 ### The license
 
