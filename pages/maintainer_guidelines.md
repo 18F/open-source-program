@@ -7,6 +7,7 @@ title: Open Source Maintainer Guidelines
 ---
 
 ## Rationale
+
 18f differs as an organization. Very much of the code is open source, so should be consumable and easy to use by the open source community. The code should therefore be easy to understand as well as easy to use and develop. The code is also meant to be very public. This means everything published on github is essentially making a public statement. All projects should take care to maintain a good public image that will reflect on 18f.
 
 The organization also works on my different projects at the same time, meaning there are many different codebases. This requires an adherence to technical rules, defined by style guides. The style guides themselves should be broad to accommodate the many different projects. Projects and tools should be made general, so all of 18f can share code, reducing the cost and time of all programming projects.
@@ -15,25 +16,8 @@ There is a big difference between "throwing source code over the wall", and maki
 
 Some terminology used may be GitHub-specific, but the concepts are applicable regardless of version control system or platform.
 
-## Code documentation
+## Documentation
 
-For a library, at least part of code documentation will be targeted at users, while for other projects, it is for contributors. Make sure to:
-
-1. Document parameters and returns for each public function or method. This should be done by standardized comments in the code.
-1. Document the general purpose of each class, module. This should be done by standardized comments in the code.
-1. Include a step by step document of the source code IF the code is very complex, will be used widely in the open source community, may not be reused directly/as-is but general concepts are modifiable, or is a general library that could be included in different types of projects.
-1. Document through comments with the language’s standardized documentation standard, or the most popular standard.
-	  * JavaScript: [JSDoc](http://usejsdoc.org/)
-	  * Python: [reStructeredText](https://docs.python.org/devguide/documenting.html)
-	  * Ruby: [RDoc](http://ruby-doc.org/gems/docs/r/rdoc-4.1.2/RDoc/Markup.html)
-		    * [RubyDoc.info](http://www.rubydoc.info/)
-	  * [Read the Docs](https://readthedocs.org/)
-1. Use a style guide for each language on a project.
-1. Code reviews should maintain documentation standards.
-	  * Review that these standards are enforced.
-	  * Review that the specific style guide for the language or project are being enforced.
-
-## Project documentation
 ### The README
 
 Whether the "README" exists as a Markdown file in the repository or as a dedicated web page, project documentation is crucial to provide an entry point for potential users. It should contain the following:
@@ -72,25 +56,23 @@ Whether the "README" exists as a Markdown file in the repository or as a dedicat
 * Version it
     * If it's in the same repository as the code, changes can happen simultaneously
 
-### Demos
+### Code documentation
 
-* Live, for app/frontend project
-* Example implementation
+For a library, at least part of code documentation will be targeted at users, while for other projects, it is for contributors. Make sure to:
 
-### Coverage
-
-* automated tests
-* humans
-    * someone to take the reins, in case you get hit by a bus
-    * someone to bounce ideas off of
-
-### Issue tracking
-
-* make Issues public
-    * issue tracker/roadmap that isn't publicly visible makes it difficult for others to dive in
-* Labels
-    * "help wanted"
-    * "beginner-friendly"
+1. Document parameters and returns for each public function or method. This should be done by standardized comments in the code.
+1. Document the general purpose of each class, module. This should be done by standardized comments in the code.
+1. Include a step by step document of the source code IF the code is very complex, will be used widely in the open source community, may not be reused directly/as-is but general concepts are modifiable, or is a general library that could be included in different types of projects.
+1. Document through comments with the language’s standardized documentation standard, or the most popular standard.
+		* JavaScript: [JSDoc](http://usejsdoc.org/)
+		* Python: [reStructeredText](https://docs.python.org/devguide/documenting.html)
+		* Ruby: [RDoc](http://ruby-doc.org/gems/docs/r/rdoc-4.1.2/RDoc/Markup.html)
+				* [RubyDoc.info](http://www.rubydoc.info/)
+		* [Read the Docs](https://readthedocs.org/)
+1. Use a style guide for each language on a project.
+1. Code reviews should maintain documentation standards.
+		* Review that these standards are enforced.
+		* Review that the specific style guide for the language or project are being enforced.
 
 ### Developer documentation
 
@@ -111,11 +93,32 @@ Part of your documentation should be guidelines targeted at (potential) contribu
 * WIP PRs are ok
 * Instruct if you prefer commits be rebased, or if there's any other specific [style guidelines](#style) to be followed
 
-### The license
+## Demos
+
+* Live, for app/frontend project
+* Example implementation
+
+## Coverage
+
+* automated tests
+* humans
+    * someone to take the reins, in case you get hit by a bus
+    * someone to bounce ideas off of
+
+## Issue tracking
+
+* make Issues public
+    * issue tracker/roadmap that isn't publicly visible makes it difficult for others to dive in
+* Labels
+    * "help wanted"
+    * "beginner-friendly"
+
+
+## The license
 
 * http://choosealicense.com/
 
-### Advertisement
+## Advertisement
 
 * This is marketing
     * Strong users are most likely to become contributors/maintainers, so take care of them
@@ -129,7 +132,7 @@ Part of your documentation should be guidelines targeted at (potential) contribu
 * Bounty programs
     * [List on Hacker Hours](http://hackerhours.org/resources.html#getting-involved-in-open-source)
 
-### Resources
+## Resources
 
 * 18F
     * https://18f.github.io/open-source-program/
@@ -144,11 +147,11 @@ Part of your documentation should be guidelines targeted at (potential) contribu
     * http://producingoss.com/
     * http://wiki.civiccommons.org/Open_Source_Development_Guidelines
 
-### Releases
+## Releases
 
 * [Semantic versioning](http://semver.org/) w/ corresponding tags
 * Changelog.md or [GitHub Releases](https://help.github.com/categories/releases/)
 
-### Style
+## Style
 
 * Establish a consistent coding style/conventions, throughout the project or even the organization.
