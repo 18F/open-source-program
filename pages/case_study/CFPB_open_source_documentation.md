@@ -8,4 +8,11 @@ The [HMDA API documentation](http://cfpb.github.io/api/hmda/) is correctly seen 
 
 At the General Services Administration, a team working on SAM.gov was preparing the release of an API to that program’s data.  The original documentation took the form of a lengthy and unweildy word document that would be hosted for download.  Initial feedback quickly drove the SAM.gov team to see the need for more user-friendly, html-based documentation.  The CFPB example was not just an inspiration or a model to imitate.  The SAM.gov team literally forked CFPB's documentation and modified it to match their API's specifics.  The [end product](http://gsa.github.io/sam_api/sam/) perfectly suits their needs and has received solid reviews from outside developers.  By re-using the good work of others, GSA was able to save time and money while still delivering a top-quality product.  
 
-*Update:* The GSA Auctions API team followed the same path in publishing [their new API](http://gsa.github.io/auctions_api/), further increasing the savings from this re-use project.  
+**Updates:** 
+
+* The GSA Auctions API team followed the same path in publishing [their new API](http://gsa.github.io/auctions_api/), further increasing the savings from this re-use project.  
+* The Regulations.gov API team is now [using this project as well](http://regulationsgov.github.io/developers/).  
+* This topic is covered in further detail in [this Digital Government University session](http://youtu.be/ZRhRU5y0jEk?t=36m33s).  
+
+
+

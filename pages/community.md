@@ -11,6 +11,7 @@ title: "Community"
 ## Agency/Program Hubs
 * [Ames Lab - DOE](https://www.ameslab.gov/open-source-software)
 * [Consumer Financial Protection Bureau](http://cfpb.github.io/)
+* [DARPA Open Source Catalog](http://www.darpa.mil/opencatalog/XDATA.html)
 * [Data.gov](https://www.data.gov/developers/open-source)
 * [Department of Defense](http://forge.mil/)
 * [Federal Communications Commission](http://www.fcc.gov/developers#opensource)
@@ -32,6 +33,7 @@ title: "Community"
 ### General Services Administration
 * [DigitalGov Search: Our Open Source Strategy](http://www.digitalgov.gov/2014/03/24/digitalgov-search-our-open-source-strategy/)
 * [18F: An Open Source Team](http://18fblog.tumblr.com/post/93226835135/18f-an-open-source-team)
+* [Defense Finance Accounting Services Use HHS Code to Make Mobile-Friendly Tables](http://www.digitalgov.gov/2014/12/11/defense-finance-accounting-services-use-hhs-code-to-make-mobile-friendly-tables/)
 
 ### Library of Congress
 * [Islandora’s Open Source Ecosystem and Digital Preservation: An Interview with Mark Leggott](http://blogs.loc.gov/digitalpreservation/2013/03/islandoras-open-source-ecosystem-and-digital-preservation-an-interview-with-mark-leggott/?loclr=blogsig)

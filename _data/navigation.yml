@@ -20,6 +20,6 @@
 - text: Case Studies
   url: pages/case_study_list/
 - text: FAQs
-  url: pages/faq/
+  url: http://if.io/open-source-program-template/pages/faq
 - text: Feedback
   url: https://github.com/18F/open-source-program/issues
