@@ -19,7 +19,7 @@ Some terminology used may be GitHub-specific, but the concepts are applicable re
 1. Document parameters and returns for each public function or method. This should be done by standardized comments in the code.
 1. Document the general purpose of each class, module. This should be done by standardized comments in the code.
 1. Include a step by step document of the source code IF the code is very complex, will be used widely in the open source community, may not be reused directly/as-is but general concepts are modifiable, or is a general library that could be included in different types of projects.
-1. Document through comments with the language’s standardized documentation standard, or the most popular standard. Examples
+1. Document through comments with the language’s standardized documentation standard, or the most popular standard.
 	- JavaScript: [JSDoc](http://usejsdoc.org/)
 	- Python: [reStructeredText](https://docs.python.org/devguide/documenting.html)
 	- Ruby: [RDoc](http://ruby-doc.org/gems/docs/r/rdoc-4.1.2/RDoc/Markup.html)
@@ -33,18 +33,20 @@ Some terminology used may be GitHub-specific, but the concepts are applicable re
 ## Project documentation
 ### The README
 
-* Quick description of what the project is for
-* Document how to use, develop, test and run
+Whether the "README" exists as a Markdown file in the repository or as a dedicated web page, project documentation is crucial to provide an entry point for potential users. It should contain the following:
+
+* A quick description of what the project is for
+* Instructions of how to use, run, develop, and test the code
 	* Test to ensure these instructions work whenever the relevant code changes.
 	* Include separate sections for using a project vs developing for it
 	* Try to keep these instructions as simple as possible, meaning keeping the build process so its easy to execute.
-* Name projects so they are consumable by the public.
+* Name projects so they are easily consumable by the public.
 	* Avoid acronyms
 	* Use names that are descriptive of the project purpose
-	* Check with Comms before locking in a name - there may be other considerations (political/agency/business line)
-* A web site can be an alternative place to display this information, if you prefer
-* (Link to) documentation
-* Include contact information for receiving more information and help
+	* Check with your communications team before locking in a name - there may be political/agency/business considerations
+* [Usage documentation](#usage-documentation)
+* A link to the [code documentation](#code-documentation)
+* Include contact information for receiving more information
 * Make it clear where to ask questions
     * Issues
     * Stack Overflow (and whether to use a specific tag – http://stackoverflow.com/questions/tagged/SOMETHING)
@@ -53,9 +55,9 @@ Some terminology used may be GitHub-specific, but the concepts are applicable re
         * IRC (e.g. https://webchat.freenode.net/?channels=SOMETHING)
     * Mailing list
 * Include links to additional/alternative resources
-    * Possibly explain how yours differs
+    * Bonus: explain how your project is different
 
-### Documentation
+### Usage documentation
 
 * Setup instructions
 * Usage examples
@@ -63,7 +65,7 @@ Some terminology used may be GitHub-specific, but the concepts are applicable re
     * especially if it's a library
     * Inline usage examples are great
 * Version it
-    * Even easier if it's in the same repository as the code - changes can/should happen simultaneously
+    * If it's in the same repository as the code, changes can happen simultaneously
 
 ### Demos
 
