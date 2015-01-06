@@ -24,17 +24,17 @@ Whether the "README" exists as a Markdown file in the repository or as a dedicat
 
 * A quick description of what the project is for
 * Instructions of how to use and run the code
-	  * Test to ensure these instructions work whenever the relevant code changes.
-	  * Include separate sections for using a project vs developing for it
-	  * Try to keep these instructions as simple as possible, meaning keeping the build process so its easy to execute.
+    * Test to ensure these instructions work whenever the relevant code changes.
+    * Include separate sections for using a project vs developing for it
+    * Try to keep these instructions as simple as possible, meaning keeping the build process so its easy to execute.
 * Name projects so they are easily consumable by the public.
-	  * Avoid acronyms
-	  * Use names that are descriptive of the project purpose
-	  * Check with your communications team before locking in a name - there may be political/agency/business considerations
+    * Avoid acronyms
+    * Use names that are descriptive of the project purpose
+    * Check with your communications team before locking in a name - there may be political/agency/business considerations
 * Include the various types of documentation, either as links, or if short, within the same document:
-	  * [Usage](#usage-documentation)
-	  * [Code](#code-documentation)
-	  * [Developer](#developer-documentation)
+    * [Usage](#usage-documentation)
+    * [Code](#code-documentation)
+    * [Developer](#developer-documentation)
 * Include contact information for receiving more information
 * Make it clear where to ask questions
     * Issues
@@ -64,15 +64,15 @@ For a library, at least part of code documentation will be targeted at users, wh
 1. Document the general purpose of each class, module. This should be done by standardized comments in the code.
 1. Include a step by step document of the source code IF the code is very complex, will be used widely in the open source community, may not be reused directly/as-is but general concepts are modifiable, or is a general library that could be included in different types of projects.
 1. Document through comments with the language’s standardized documentation standard, or the most popular standard.
-		* JavaScript: [JSDoc](http://usejsdoc.org/)
-		* Python: [reStructeredText](https://docs.python.org/devguide/documenting.html)
-		* Ruby: [RDoc](http://ruby-doc.org/gems/docs/r/rdoc-4.1.2/RDoc/Markup.html)
-				* [RubyDoc.info](http://www.rubydoc.info/)
-		* [Read the Docs](https://readthedocs.org/)
+    * JavaScript: [JSDoc](http://usejsdoc.org/)
+    * Python: [reStructeredText](https://docs.python.org/devguide/documenting.html)
+    * Ruby: [RDoc](http://ruby-doc.org/gems/docs/r/rdoc-4.1.2/RDoc/Markup.html)
+        * [RubyDoc.info](http://www.rubydoc.info/)
+    * [Read the Docs](https://readthedocs.org/)
 1. Use a style guide for each language on a project.
 1. Code reviews should maintain documentation standards.
-		* Review that these standards are enforced.
-		* Review that the specific style guide for the language or project are being enforced.
+    * Review that these standards are enforced.
+    * Review that the specific style guide for the language or project are being enforced.
 
 ### Developer documentation
 
