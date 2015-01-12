@@ -81,22 +81,21 @@ For a library, at least part of code documentation will be targeted at users, wh
 
 ### Developer documentation
 
-Part of your documentation should be guidelines targeted at (potential) contributors. This should include:
+Part of your documentation should be guidelines targeted at (potential) contributors. Your [CONTRIBUTING.md](https://help.github.com/articles/setting-guidelines-for-repository-contributors/) file should contain the following:
 
-* [CONTRIBUTING.md](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
-* Include any additional setup steps
-* Include instructions for running the tests
-* Explain requirements
-    * Contributor License Agreement
+* Any additional setup steps
+* Instructions for running the tests
+* Requirements for contribution, if any, e.g.
+    * A Contributor License Agreement
         * [CLAHub](https://www.clahub.com/)
         * http://oss-watch.ac.uk/resources/cla
         * http://contributoragreements.org/
-    * You can specify a specific coding style to adhere to, but generally contributors will match what they see within a project.
-* sometimes ask before you make changes, sometimes don't
+    * If commits should be squashed
+    * A specific [coding style](#style) to adhere to, but generally contributors will match what they see within a project
+* Whether potential contributors should ask before they make significant changes
     * Encourage proposals before big changes
     * "Show me the code"
-* WIP PRs are ok
-* Instruct if you prefer commits be rebased, or if there's any other specific [style guidelines](#style) to be followed
+* Work-in-progress pull requests are ok
 
 ## Demos
 
