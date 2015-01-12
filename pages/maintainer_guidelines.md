@@ -99,8 +99,7 @@ Part of your documentation should be guidelines targeted at (potential) contribu
 
 ## Demos
 
-* Live, for app/frontend project
-* Example implementation
+Part of lowering the barrier to entry for a project is understanding what it is useful for, and what the experience of using it will be like. To give potential users an idea, a library could have an example integration can be created in a separate folder or repository, and a web app with a frontend can have a live demo (if the live version isn't publicly accessible already).
 
 ## Coverage
 
