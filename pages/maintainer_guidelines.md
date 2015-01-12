@@ -31,19 +31,19 @@ Whether the "README" exists as a Markdown file in the repository or as a dedicat
     * Avoid acronyms
     * Use names that are descriptive of the project purpose
     * Check with your communications team before locking in a name - there may be political/agency/business considerations
-* Include the various types of documentation, either as links, or if short, within the same document:
+* The various types of documentation, either as links, or if short, within the same document:
     * [Usage](#usage-documentation)
     * [Code](#code-documentation)
     * [Developer](#developer-documentation)
-* Include contact information for receiving more information
-* Make it clear where to ask questions
+* Contact information
+* Where to ask questions, e.g.
     * Issues
     * Stack Overflow (and whether to use a specific tag – http://stackoverflow.com/questions/tagged/SOMETHING)
     * chat
         * [Gitter](https://gitter.im/)
         * IRC (https://webchat.freenode.net/?channels=SOMETHING)
     * Mailing list
-* Include links to additional/alternative resources
+* Links to additional/alternative resources
     * Bonus: explain how your project is different
 
 ### Usage documentation
