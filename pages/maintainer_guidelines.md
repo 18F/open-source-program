@@ -103,10 +103,7 @@ Part of lowering the barrier to entry for a project is understanding what it is 
 
 ## Coverage
 
-* automated tests
-* humans
-    * someone to take the reins, in case you get hit by a bus
-    * someone to bounce ideas off of
+"Coverage" means having/providing assurances that your project will survive with high quality over time. Automated tests with good code coverage are an example of ensuring the functionality of the code itself. For the project as a whole, getting multiple maintainers means having someone available to bounce ideas off of, do code reviews, and take the reins in case you (the creator) moves on or loses interest in the project.
 
 ## Issue tracking
 
