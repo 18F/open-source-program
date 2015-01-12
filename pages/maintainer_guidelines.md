@@ -60,17 +60,22 @@ Whether the "README" exists as a Markdown file in the repository or as a dedicat
 
 For a library, at least part of code documentation will be targeted at users, while for other projects, it is for contributors. Make sure to:
 
-1. Document parameters and returns for each public function or method. This should be done by standardized comments in the code.
-1. Document the general purpose of each class, module. This should be done by standardized comments in the code.
-1. Include a step by step document of the source code IF the code is very complex, will be used widely in the open source community, may not be reused directly/as-is but general concepts are modifiable, or is a general library that could be included in different types of projects.
-1. Document through comments with the language’s standardized documentation standard, or the most popular standard.
+* Document parameters and returns for each public function or method. This should be done by standardized comments in the code.
+* Document parameters and returns for each public function or method. This should be done by standardized comments in the code.
+* Document the general purpose of each class, module. This should be done by standardized comments in the code.
+* Document the general purpose of each class, module. This should be done by standardized comments in the code.
+* Include a step by step document of the source code IF the code is very complex, will be used widely in the open source community, may not be reused directly/as-is but general concepts are modifiable, or is a general library that could be included in different types of projects.
+* Include a step by step document of the source code IF the code is very complex, will be used widely in the open source community, may not be reused directly/as-is but general concepts are modifiable, or is a general library that could be included in different types of projects.
+* Document through comments with the language’s standardized documentation standard, or the most popular standard.
+* Document through comments with the language’s standardized documentation standard, or the most popular standard.
     * JavaScript: [JSDoc](http://usejsdoc.org/)
     * Python: [reStructeredText](https://docs.python.org/devguide/documenting.html)
     * Ruby: [RDoc](http://ruby-doc.org/gems/docs/r/rdoc-4.1.2/RDoc/Markup.html)
+    * Ruby: [RDoc](http://ruby-doc.org/gems/docs/r/rdoc-4.1.2/RDoc/Markup.html)
         * [RubyDoc.info](http://www.rubydoc.info/)
     * [Read the Docs](https://readthedocs.org/)
-1. Use a style guide for each language on a project.
-1. Code reviews should maintain documentation standards.
+* Use a style guide for each language on a project.
+* Code reviews should maintain documentation standards.
     * Review that these standards are enforced.
     * Review that the specific style guide for the language or project are being enforced.
 
