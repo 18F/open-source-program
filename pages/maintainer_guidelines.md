@@ -107,16 +107,17 @@ Part of lowering the barrier to entry for a project is understanding what it is 
 
 ## Issue tracking
 
-* make Issues public
-    * issue tracker/roadmap that isn't publicly visible makes it difficult for others to dive in
-* Labels
+The best way for potential users or contributors to see outstanding bugs, planned features, and general activity of your project is through an issue tracker. You will want to:
+
+* Make the project issue tracker public
+* Add labels, especially ones that are useful to new contributors, e.g.
     * "help wanted"
     * "beginner-friendly"
-
+* Make sure the outcomes of any back-channel conversations (face-to-face, chat, etc.) related to the project are documented somewhere
 
 ## The license
 
-* http://choosealicense.com/
+For information about licensing your project, see [choosealicense.com](http://choosealicense.com).
 
 ## Advertisement
 
