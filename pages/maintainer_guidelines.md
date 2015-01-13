@@ -22,7 +22,9 @@ Some terminology used may be GitHub-specific, but the concepts are applicable re
 
 Whether the "README" exists as a Markdown file in the repository or as a dedicated web page, project documentation is crucial to provide an entry point for potential users. It should contain the following:
 
-* A quick description of what the project is for
+* A quick description of what the project is for. Examples:
+    * "An estimator for hourly rates on professional services contracts"
+    * "Lightweight analytics reporting and publishing tool for Google Analytics data."
 * Instructions of how to use and run the code
     * Test to ensure these instructions work whenever the relevant code changes.
     * Include separate sections for using a project vs developing for it
@@ -39,22 +41,39 @@ Whether the "README" exists as a Markdown file in the repository or as a dedicat
 * Where to ask questions, e.g.
     * Issues
     * Stack Overflow (and whether to use a specific tag – http://stackoverflow.com/questions/tagged/SOMETHING)
-    * chat
-        * [Gitter](https://gitter.im/)
-        * IRC (https://webchat.freenode.net/?channels=SOMETHING)
-    * Mailing list
+    * Chat
+        * [Gitter](https://gitter.im/), a chat client that hooks in to a github repository.
+        * IRC (https://webchat.freenode.net/?channels=SOMETHING).
+    * Mailing list, Google Groups is a possibly resource to set this up.
 * Links to additional/alternative resources
     * Bonus: explain how your project is different
 
-### Usage documentation
+#### Usage documentation
 
-* Setup instructions
-* Usage examples
-* Method-level
-    * especially if it's a library
+* Setup instructions. How to install or setup the project, for use not development.
+* Usage examples. Code samples that explain different ways to use the software.
     * Inline usage examples are great
 * Version it
     * If it's in the same repository as the code, changes can happen simultaneously
+
+### Contributor documentation
+
+Part of your documentation should be guidelines targeted at (potential) contributors. Documentation for contributers should be separate from the README usage documentation. If you're contributor documentation is brief, you can include it as a section in your README. Otherwise, your [CONTRIBUTING.md](https://help.github.com/articles/setting-guidelines-for-repository-contributors/) file should contain the following:
+
+* Any additional setup steps specific for development.
+* Instructions for running the tests.
+* Requirements for contribution, if any, e.g.
+    * A Contributor License Agreement
+        * [CLAHub](https://www.clahub.com/)
+        * http://oss-watch.ac.uk/resources/cla
+        * http://contributoragreements.org/
+    * If commits should be squashed
+    * A specific [coding style](#style) to adhere to, but generally contributors will match what they see within a project
+* Whether potential contributors should ask before they make significant changes
+    * Encourage proposals before big changes
+    * "Show me the code"
+* Work-in-progress pull requests are ok
+
 
 ### Code documentation
 
@@ -74,24 +93,6 @@ For a library, at least part of code documentation will be targeted at users, wh
     * Review that these standards are enforced.
     * Review that the specific style guide for the language or project are being enforced.
 
-### Developer documentation
-
-Part of your documentation should be guidelines targeted at (potential) contributors. Your [CONTRIBUTING.md](https://help.github.com/articles/setting-guidelines-for-repository-contributors/) file should contain the following:
-
-* Any additional setup steps
-* Instructions for running the tests
-* Requirements for contribution, if any, e.g.
-    * A Contributor License Agreement
-        * [CLAHub](https://www.clahub.com/)
-        * http://oss-watch.ac.uk/resources/cla
-        * http://contributoragreements.org/
-    * If commits should be squashed
-    * A specific [coding style](#style) to adhere to, but generally contributors will match what they see within a project
-* Whether potential contributors should ask before they make significant changes
-    * Encourage proposals before big changes
-    * "Show me the code"
-* Work-in-progress pull requests are ok
-
 ## Demos
 
 Part of lowering the barrier to entry for a project is understanding what it is useful for, and what the experience of using it will be like. To give potential users an idea, a library could have an example integration can be created in a separate folder or repository, and a web app with a frontend can have a live demo (if the live version isn't publicly accessible already).
@@ -108,7 +109,7 @@ The best way for potential users or contributors to see outstanding bugs, planne
 * Add labels, especially ones that are useful to new contributors, e.g.
     * "help wanted"
     * "beginner-friendly"
-* Make sure the outcomes of any back-channel conversations (face-to-face, chat, etc.) related to the project are documented somewhere
+* Make sure the outcomes of any back-channel conversations (face-to-face, chat, etc.) related to the project are documented somewhere.
 
 ## The license
 
@@ -118,14 +119,13 @@ For information about licensing your project, see [choosealicense.com](http://ch
 
 ## Advertisement
 
-* This is marketing
-    * Strong users are most likely to become contributors/maintainers, so take care of them
+* Strong users are most likely to become contributors/maintainers, so take care of them.
 * Mailing lists
-* Talks
+* Talks - bring you work to the public by talking about it to groups.
     * [Meetups](http://www.meetup.com/) / user groups
     * Conferences
-* Answers to related Stack Overflow questions
-* GitHub profile pages (orgs especially) are not a great way to showcase projects
+* Answers to related Stack Overflow questions.
+* GitHub profile pages (orgs especially) are not a great way to showcase projects.
     * https://github.com/showcases/open-source-organizations
 * Bounty programs
     * [List on Hacker Hours](http://hackerhours.org/resources.html#getting-involved-in-open-source)
