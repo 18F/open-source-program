@@ -35,7 +35,7 @@ Whether the "README" exists as a Markdown file in the repository or as a dedicat
     * [Usage](#usage-documentation)
     * [Code](#code-documentation)
     * [Developer](#developer-documentation)
-* Contact information
+* Contact information, possibly an email of somebody on the team.
 * Where to ask questions, e.g.
     * Issues
     * Stack Overflow (and whether to use a specific tag – http://stackoverflow.com/questions/tagged/SOMETHING)
@@ -61,16 +61,11 @@ Whether the "README" exists as a Markdown file in the repository or as a dedicat
 For a library, at least part of code documentation will be targeted at users, while for other projects, it is for contributors. Make sure to:
 
 * Document parameters and returns for each public function or method. This should be done by standardized comments in the code.
-* Document parameters and returns for each public function or method. This should be done by standardized comments in the code.
-* Document the general purpose of each class, module. This should be done by standardized comments in the code.
 * Document the general purpose of each class, module. This should be done by standardized comments in the code.
 * Include a step by step document of the source code IF the code is very complex, will be used widely in the open source community, may not be reused directly/as-is but general concepts are modifiable, or is a general library that could be included in different types of projects.
-* Include a step by step document of the source code IF the code is very complex, will be used widely in the open source community, may not be reused directly/as-is but general concepts are modifiable, or is a general library that could be included in different types of projects.
-* Document through comments with the language’s standardized documentation standard, or the most popular standard.
 * Document through comments with the language’s standardized documentation standard, or the most popular standard.
     * JavaScript: [JSDoc](http://usejsdoc.org/)
     * Python: [reStructeredText](https://docs.python.org/devguide/documenting.html)
-    * Ruby: [RDoc](http://ruby-doc.org/gems/docs/r/rdoc-4.1.2/RDoc/Markup.html)
     * Ruby: [RDoc](http://ruby-doc.org/gems/docs/r/rdoc-4.1.2/RDoc/Markup.html)
         * [RubyDoc.info](http://www.rubydoc.info/)
     * [Read the Docs](https://readthedocs.org/)
@@ -117,6 +112,8 @@ The best way for potential users or contributors to see outstanding bugs, planne
 
 ## The license
 
+For 18f or government based projects, use a Creative Commons CC0 Universal license. Include this as a document "LICENSE" in the main code repository. The full license can be see on the [CC site](http://creativecommons.org/publicdomain/zero/1.0/)
+
 For information about licensing your project, see [choosealicense.com](http://choosealicense.com).
 
 ## Advertisement
@@ -152,7 +149,3 @@ For information about licensing your project, see [choosealicense.com](http://ch
 
 * [Semantic versioning](http://semver.org/) w/ corresponding tags
 * Changelog.md or [GitHub Releases](https://help.github.com/categories/releases/)
-
-## Style
-
-* Establish a consistent coding style/conventions, throughout the project or even the organization.
