@@ -2,7 +2,7 @@
 title: "Policy Documents"
 ---
 
-* [U.S. Digital Services Playbook, Play #13](https://playbook.cio.gov) - Play #13: Default to Open, from the Office of Management and Budget's U.S. Digital Services Playbook.
+* [U.S. Digital Services Playbook, Play #13](https://playbook.cio.gov) - "Default to Open", from the Office of Management and Budget's U.S. Digital Services Playbook.
 * [Second National Action Plan](http://www.whitehouse.gov/sites/default/files/microsites/ostp/new_nap_commitments_report_092314.pdf)
 * [OMB Memo 04-16](http://www.whitehouse.gov/omb/memoranda_fy04_m04-16) - OMB Memorandum making clear that agencies may use open source software
 * [OMB Memo on Technology Neutrality](http://www.whitehouse.gov/sites/default/files/omb/assets/egov_docs/memotociostechnologyneutrality.pdf) 
