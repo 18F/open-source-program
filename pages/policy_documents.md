@@ -25,6 +25,8 @@ title: "Policy Documents"
 * [SEC License Agreement for Use of Interactive Financial Report Viewer Source Code](http://www.sec.gov/spotlight/xbrl/xbrlviewerlicense.htm)
 
 
-Other Material  
+### Other Material  
+
 * [NASA Open Source Agreement](http://opensource.org/licenses/NASA-1.3) - *[No longer in use]*
+* [UK Open Source Policy](https://www.gov.uk/service-manual/making-software/open-source.html)
 
