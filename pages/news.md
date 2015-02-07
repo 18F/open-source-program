@@ -67,6 +67,9 @@ tite: "Government Open Source In The News"
 * [Guest opinion: Not just a code repository; GitHub's potential as a social tool for government](http://www.fiercegovernmentit.com/story/guest-opinion-not-just-code-repository-githubs-potential-social-tool-govern/2014-04-07)
 * [NGA releases open source code on GitHub](http://www.fiercegovernmentit.com/story/nga-releases-open-source-code-github/2014-04-07)
 
+### November 12, 2013
+* [GSA's Kathy Conrad on government's use of open source](http://fedscoop.com/gsas-kathy-conrad-governments-use-open-source/)
+
 ### September 1, 2011
 * [Government IT's quiet open source evolution](http://radar.oreilly.com/2011/09/open-source-government-it-goscon.html)
 
