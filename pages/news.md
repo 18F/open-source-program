@@ -2,6 +2,9 @@
 tite: "Government Open Source In The News"
 ---
 
+### February 13, 2015
+* [How open source delivers for government](http://fcw.com/Articles/2015/02/13/frost-open-source-op-ed.aspx?Page=1)
+
 ### December 11, 2014
 * [Why Governments want Open Source Software](http://www.lambdasolutions.net/blog/2014/12/governments-open-source-software/)
 
