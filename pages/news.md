@@ -2,6 +2,12 @@
 tite: "Government Open Source In The News"
 ---
 
+### March 3, 2015 
+* [The Open Source Squad at the GSA](http://www.technewsworld.com/story/81765.html)
+
+### February 27, 2015 
+[Army opts for openness with new computer security tool](http://www.baltimoresun.com/news/maryland/bs-md-federal-workplace-computer-security-20150227-story.html)
+
 ### February 13, 2015
 * [How open source delivers for government](http://fcw.com/Articles/2015/02/13/frost-open-source-op-ed.aspx?Page=1)
 
