@@ -14,6 +14,7 @@ title: "Resources"
 
 
 ### Guides
+* [FOSS Maintainer Guidelines](../maintainer_guidelines/)
 * [GitHub Best Practices for Government](../github_best_practices)
 * [How to Build Community](http://if.io/open-source-program-template/pages/building_a_community.html)
 * [How to Manage Accounts on GitHub.com](http://if.io/open-source-program-template/pages/account_management)
