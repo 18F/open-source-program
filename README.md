@@ -2,7 +2,7 @@
 
 A collection of resources and tools to support federal agencies better employ open-source.
 
-Special thanks to @[CFPB](http://github.com/cfpb), @[Virtix](https://github.com/virtix), and @[BenBalter](https://github.com/benbalter) for their insight and code.
+Special thanks to @[CFPB](http://github.com/cfpb), @[Virtix](https://github.com/virtix), and @[BenBalter](https://github.com/benbalter) for their insight and code. 
 
 ## 18F's open source policy
 
