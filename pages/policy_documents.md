@@ -2,6 +2,7 @@
 title: "Policy Documents"
 ---
 
+* [Project Open Source](https://github.com/cfpb/project-open-source/)
 * [U.S. Digital Services Playbook, Play #13](https://playbook.cio.gov) - "Default to Open", from the Office of Management and Budget (OMB)'s U.S. Digital Services Playbook.
 * [Second National Action Plan](http://www.whitehouse.gov/sites/default/files/microsites/ostp/new_nap_commitments_report_092314.pdf)
 * [OMB Memo 04-16](http://www.whitehouse.gov/omb/memoranda_fy04_m04-16) - OMB Memorandum making clear that agencies may use open source software
