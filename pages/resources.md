@@ -48,3 +48,4 @@ title: "Resources"
 * [Tech@State Open Source Agenda - 2011](http://tech.state.gov/profiles/blogs/agenda-for-open-source-event) - *[[Slides](http://tech.state.gov/profiles/blogs/link-summary-for-open-source)]*
 * [2009 NSA Publication on Open Source Software](http://www.nsa.gov/research/tnw/tnw182/articles/pdfs/TNW_18_2_Web.pdf)
 * [Open Source For America](http://opensourceforamerica.org/)
+* [Research Paper - _Social Coding in GitHub: Transparency and Collaboration in an Open Software Repository_](http://www.cs.cmu.edu/afs/cs/Web/People/xia/resources/Documents/cscw2012_Github-paper-FinalVersion-1.pdf)
