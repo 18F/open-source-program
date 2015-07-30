@@ -135,6 +135,7 @@ For information about licensing your project, see [choosealicense.com](http://ch
 * 18F
     * https://18f.github.io/open-source-program/
     * https://github.com/18F/open-source-policy
+    * We also have an [Open Source Style Guide](https://pages.18f.gov/open-source-guide/) that details how to write READMEs, Issues, and Descriptions that are user-friendly and clear. The guide also contains [a checklist](https://pages.18f.gov/open-source-guide/github-repo-checklist/) which we recommend using to make sure you are publishing a user-friendly repository.
 * external
     * https://groups.google.com/forum/#!forum/government-open-source
     * http://srawlins.ruhoh.com/checklist-for-the-benevolent-open-source-maintainer/
