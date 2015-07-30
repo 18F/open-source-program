@@ -10,6 +10,8 @@ Looking for 18F's open source policy? This is the policy 18F uses to govern its 
 
 > **[https://github.com/18F/open-source-policy/blob/master/policy.md](https://github.com/18F/open-source-policy/blob/master/policy.md)
 
+We also have an [Open Source Style Guide](https://pages.18f.gov/open-source-guide/) that details how to write READMEs, Issues, and Descriptions that are user-friendly and clear. The guide also contains [a checklist](https://pages.18f.gov/open-source-guide/github-repo-checklist/) which we recommend using to make sure you are publishing a user-friendly repository.
+
 ## Public domain
 
 This project is in the worldwide [public domain](LICENSE.md). As stated in [CONTRIBUTING](CONTRIBUTING.md):
