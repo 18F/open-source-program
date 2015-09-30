@@ -6,7 +6,7 @@ title: "Open Source Primer for COs"
 
 ## Purpose
 
-Open source software is a commercial product under the Federal Acquisition Regulation (FAR) and thus must be considered by COs during the acquisition process. The purpose of this primer is to familiarize Contracting Officers (COs) with open source software in order to aid in the acquisition process.
+Open source software is a commercial product under the Federal Acquisition Regulation (FAR) and thus must be considered by COs during the acquisition process. The purpose of this primer is to familiarize Contracting Officers (COs) with open source software in order to aid in the acquisition process. 
 
 ## Definition
 
