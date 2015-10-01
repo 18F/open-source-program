@@ -33,6 +33,7 @@ title: "Resources"
 * [Recent API Trends in Government: API Standards and Open Source Documentation](https://www.youtube.com/watch?v=ZRhRU5y0jEk&feature=youtu.be)
 
 ### Other Material
+* [Primer for Contracting Officers](https://github.com/18F/open-source-program/blob/18f-pages/pages/primer.md)
 * [How to Use More Open Source - 18F](http://18f.github.io/consulting/docs/how_to_use_more_open_source.pdf)
 * [DOD Frequently Asked Questions about Open Source Software](http://dodcio.defense.gov/OpenSourceSoftwareFAQ.aspx)
 * [Use of Free and Open-Source Software (FOSS) in the U.S. Department of Defense](http://dodcio.defense.gov/Portals/0/Documents/FOSS/dodfoss_pdf.pdf)
