@@ -84,3 +84,12 @@ Below is sample language to include in a contract to ensure that all software cr
 - [18F’s Open Source Policy](https://github.com/18F/open-source-policy/blob/master/policy.md)
 - [18F Contracting Cookbook](https://pages.18f.gov/contracting-cookbook/)
 
+####18F Blog Posts about benefits of open source
+- [18F: an open source team](https://18f.gsa.gov/2014/07/29/18f-an-open-source-team/)
+- [Working in Public from Day 1](https://18f.gsa.gov/2014/07/31/working-in-public-from-day-1/)
+- [The contributor's guide to 18F: code for the common good](https://18f.gsa.gov/2014/08/12/the-contributors-guide-to-18f-code-for-the-common/)
+- [How to use more open source in your next federal IT aquisition](https://18f.gsa.gov/2014/11/26/how-to-use-more-open-source/)
+- [Open Source for Good Government](https://18f.gsa.gov/2015/01/16/open-source-for-good-government/)
+- 
+- 
+
