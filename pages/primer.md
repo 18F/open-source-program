@@ -1,8 +1,7 @@
 ---
-title: "Open Source Primer for COs"
+title: "Open Source Primer for Contracting Officers"
 ---
 
-# Open Source Primer for Contracting Officers
 
 ## Purpose
 
