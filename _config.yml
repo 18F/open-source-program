@@ -20,7 +20,7 @@ defaults:
 
 #Prose.io editing info
 repo_name: open-source-program
-branch: gh-pages
+branch: 18f-pages
 #GitHub organization name *or* username
 gh_org: 18f
 prose_url: http://github.com/
