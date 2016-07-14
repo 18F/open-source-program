@@ -9,6 +9,7 @@ title: "Policy Documents"
 * [Consumer Financial Protection Bureau - Source Code Policy](https://github.com/cfpb/source-code-policy)
 * Department of Defense
   * [Memo on Open Source - Clarifyng Guidance Regarding Open Source Software (OSS)](http://dodcio.defense.gov/Portals/0/Documents/FOSS/2009OSS.pdf)
+  * [Open Source FAQ](http://dodcio.defense.gov/Open-Source-Software-FAQ/)
   * [Related DOD Policies & Memos](http://mil-oss.org/resources/articles-papers-presentations)
 * Department of Energy
   * [Department of Energy, Genomic Science Program, Draft Information and Data Sharing Policy](http://genomicscience.energy.gov/datasharing/) - see IV. Computational Software
