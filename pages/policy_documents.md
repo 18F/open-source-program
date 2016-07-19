@@ -12,6 +12,7 @@ title: "Policy Documents"
   * [Open Source FAQ](http://dodcio.defense.gov/Open-Source-Software-FAQ/)
   * [Related DOD Policies & Memos](http://mil-oss.org/resources/articles-papers-presentations)
 * Department of Energy
+  * [Development and Use of Open Source Software](http://energy.gov/sites/prod/files/2015/01/f19/IPI-OSS%20April%202010.pdf)
   * [Department of Energy, Genomic Science Program, Draft Information and Data Sharing Policy](http://genomicscience.energy.gov/datasharing/) - see IV. Computational Software
   * [Energy Plus Open Source License](http://apps1.eere.energy.gov/buildings/energyplus/pdfs/open_source_agreement.pdf)
 * Department of Health and Human Services
