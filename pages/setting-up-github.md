@@ -29,7 +29,10 @@ On Aug. 8, 2016, OMB [released M-16-21](https://sourcecode.cio.gov/), a policy d
 * GSA has coordinated with GitHub to ensure that its terms of service are government-friendly out of the box.  
 * There's no cost to using GitHub by default, so you can set up your GitHub organization without needing to do a procument. 
 * By default, GitHub does not have access to agency systems or code when you set up a GitHub organization.  It takes a proactive, intentional effort to share code or information on the site.  Until you do, your GitHub organization is entirely outside your agency's security perimeter.  
-* The best way to start is slowly - Create a GitHub user account and then the agency organization.  Use the organization permissions to 
+* The best way to start is slowly - Create a GitHub user account and then the agency organization.  Use the organization permissions to grant access to your team and appropriate stakeholders.  
+* Encourage team members to go through the [beginner's guides](https://guides.github.com/) and learn basic tasks like creating, editing, forking, and managing a repository.  
+* Staff can use their personal GitHub accounts to experiment and become used to the interface without contributing anything to the agency organization.  
+* Convene a working group to decide how to pilot the use of the agency's GitHub organization and to expand and manage access and workflows.  
 
 #### Agencies already using GitHub...
 
