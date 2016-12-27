@@ -8,6 +8,7 @@ title: "Policy Documents"
 * [OMB Memo on Technology Neutrality](http://www.whitehouse.gov/sites/default/files/omb/assets/egov_docs/memotociostechnologyneutrality.pdf) 
 * [Consumer Financial Protection Bureau - Source Code Policy](https://github.com/cfpb/source-code-policy)
 * Department of Defense
+  * [US Army Research Lab - Open Source Guidance](https://github.com/USArmyResearchLab/ARL-Open-Source-Guidance-and-Instructions)
   * [Memo on Open Source - Clarifyng Guidance Regarding Open Source Software (OSS)](http://dodcio.defense.gov/Portals/0/Documents/FOSS/2009OSS.pdf)
   * [Open Source FAQ](http://dodcio.defense.gov/Open-Source-Software-FAQ/)
   * [Related DOD Policies & Memos](http://mil-oss.org/resources/articles-papers-presentations)
