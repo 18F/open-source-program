@@ -16,6 +16,7 @@ title: "Policy Documents"
   * [Department of Energy, Genomic Science Program, Draft Information and Data Sharing Policy](http://genomicscience.energy.gov/datasharing/) - see IV. Computational Software
   * [Energy Plus Open Source License](http://apps1.eere.energy.gov/buildings/energyplus/pdfs/open_source_agreement.pdf)
 * Department of Health and Human Services
+  * [GSA Open Source Policy](https://gsa.github.io/GSAOpenSourcePolicy/)
   * [National Institutes of Health, National Cancer Institute - Open Source License for caAdapter](https://wiki.nci.nih.gov/display/caCORE/caBIG+Open+Source+Software+License+for+caAdapter)
 * Department of Homeland Security
   * [Open Source Software in Government Challengese and Opportunities](http://www.scribd.com/doc/226768938/Open-Source-Software-in-Government-Challenges-and-Opportunities)
