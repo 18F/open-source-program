@@ -10,7 +10,7 @@ title: Open Source Maintainer Guidelines
 
 18f differs as an organization. Very much of the code is open source, so should be consumable and easy to use by the open source community. The code should therefore be easy to understand as well as easy to use and develop. The code is also meant to be very public. This means everything published on github is essentially making a public statement. All projects should take care to maintain a good public image that will reflect on 18f.
 
-The organization also works on my different projects at the same time, meaning there are many different codebases. This requires an adherence to technical rules, defined by style guides. The style guides themselves should be broad to accommodate the many different projects. Projects and tools should be made general, so all of 18f can share code, reducing the cost and time of all programming projects.
+The organization also works on many different projects at the same time, meaning there are many different codebases. This requires an adherence to technical rules, defined by style guides. The style guides themselves should be broad to accommodate the many different projects. Projects and tools should be made general, so all of 18f can share code, reducing the cost and time of all programming projects.
 
 There is a big difference between "throwing source code over the wall", and making a project that is amenable to contributions.
 
@@ -58,7 +58,7 @@ Whether the "README" exists as a Markdown file in the repository or as a dedicat
 
 ### Contributor documentation
 
-Part of your documentation should be guidelines targeted at (potential) contributors. Documentation for contributers should be separate from the README usage documentation. If you're contributor documentation is brief, you can include it as a section in your README. Otherwise, your [CONTRIBUTING.md](https://help.github.com/articles/setting-guidelines-for-repository-contributors/) file should contain the following:
+Part of your documentation should be guidelines targeted at (potential) contributors. Documentation for contributers should be separate from the README usage documentation. If your contributor documentation is brief, you can include it as a section in your README. Otherwise, your [CONTRIBUTING.md](https://help.github.com/articles/setting-guidelines-for-repository-contributors/) file should contain the following:
 
 * Any additional setup steps specific for development.
 * Instructions for running the tests.
@@ -95,11 +95,11 @@ For a library, at least part of code documentation will be targeted at users, wh
 
 ## Demos
 
-Part of lowering the barrier to entry for a project is understanding what it is useful for, and what the experience of using it will be like. To give potential users an idea, a library could have an example integration can be created in a separate folder or repository, and a web app with a frontend can have a live demo (if the live version isn't publicly accessible already).
+Part of lowering the barrier to entry for a project is understanding what it is useful for, and what the experience of using it will be like. To give potential users an idea, a library could have an example integration which can be created in a separate folder or repository, and a web app with a frontend can have a live demo (if the live version isn't publicly accessible already).
 
 ## Coverage
 
-"Coverage" means having/providing assurances that your project will survive with high quality over time. Automated tests with good code coverage are an example of ensuring the functionality of the code itself. For the project as a whole, getting multiple maintainers means having someone available to bounce ideas off of, do code reviews, and take the reins in case you (the creator) moves on or loses interest in the project.
+"Coverage" means having/providing assurances that your project will survive with high quality over time. Automated tests with good code coverage are an example of ensuring the functionality of the code itself. For the project as a whole, getting multiple maintainers means having someone available to bounce ideas off of, do code reviews, and take the reins in case you (the creator) move on or lose interest in the project.
 
 ## Issue tracking
 
